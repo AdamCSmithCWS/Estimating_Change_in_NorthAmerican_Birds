@@ -1,0 +1,337 @@
+#### data = 
+#### logthetahat[s,y] log-scale indices, centered on base-year - for species missing from a given year logthetahat = 1.0 and arbitrarily small precision
+#### prec.logthetahat[s,y] log-scale precision values for the indices
+#### ne[s] population estimate for each species
+#### tau.ne[s] precision value for species population estimates
+#### yest[s] year in which species population was estimated - actually year-5 to account for indexing below
+#### nspecies
+#### nyears
+
+model
+{
+
+   for( s in 1:nspecies) {
+	for(y in 1:nyears){
+	
+      logthetahat[s,y] ~ dnorm(logtheta[s,y],prec.logthetahat[s,y]) #data
+      logtheta[s,y] ~ dnorm(mu.logtheta.s[s,y],prec.logtheta[grps[s,1],y]) ## mu.logtheta is the log-scale mean group index
+ 	theta[s,y] <- exp(logtheta[s,y]) #modelled species index on the original scale = 1.0 in yest[s]
+	mu.logtheta.s[s,y] <- mu.logtheta2[grps[s,1],grps[s,2],y]
+
+	
+	
+}#y
+
+
+
+
+
+
+
+
+#### population size re-scaling ratio = Psi[s]
+#### uses the mean ratio of the population estimate over the scaled species index (theta[y = yavg[s] years, centered on year of estimate])
+
+for(y in 1:yavg[s]){
+Psi.y[s,y] <- NEst[s]/theta[s,yest[s]+(y-1)] #species correction factor to link population estimate to index
+}
+
+#ePsi[s] <- mean(Psi.y[s,1:10])
+#Psi[s] <- exp(ePsi[s]) # geometric mean of the 10 re-scaling ratio estimates
+Psi[s] <- mean(Psi.y[s,1:yavg[s]])
+
+### estimated population size and variance
+NEst1[s] ~ dnorm(ne[s],tau.ne[s]) # estimated population size for species-s, ne and tau.ne are data
+NEst[s] <- max(1,NEst1[s])#silly, but avoids the very rare occassions where the estimate is < 1   
+
+
+
+
+#### re-scaling the shrunken species' estimates to the population size
+for(y in 1:nyears){
+
+N[s,y] <- Psi[s]*theta[s,y]
+
+}#y
+
+Nlost.S[s] <- N[s,1]-N[s,nyears] # total loss for each species
+
+}#s
+Nlost <- Nsum[1]-Nsum[nyears] ### number of birds lost overall species
+plost <- Nsum[nyears]/Nsum[1] ### number of birds lost overall species
+
+Nalost[1] <- 0
+
+for(y in 2:nyears){
+Nalost[y] <- -1*(Nsum[1]-Nsum[y])
+}
+
+
+
+
+
+for(y in 1:nyears){
+Nsum[y] = sum(N[1:nspecies,y]) #estimated group total individuals
+
+
+
+for(g in 1:ngroups1){
+   expmu1[g,y] <-exp(mu.logtheta1[g,y]) #exponentiated average of the log-indices - geometric mean
+}
+for(m in 1:ngroups2){
+expm2[m,y] <-exp(m.logtheta2[m,y]) #exponentiated average of the log-indices - geometric mean
+}      
+
+}
+
+
+
+
+#### 2 group shrinkage of indicators
+#primary grouping variables (wintering region)
+for(g in 1:ngroups1){
+#first year group means
+mu.logtheta1[g,1] <- 0 #~ dnorm( 0.0,0.1) #prior for the mean for each wintering group e.g., chihuahan dessert
+tau.mu1.y[g] ~ dgamma(0.001,001) # precision of hte first-difference time-series for group 1 means
+
+for(y in 2:nyears){
+mu.logtheta1[g,y] ~ dnorm(mu.logtheta1[g,(y-1)],tau.mu1.y[g])
+}
+}#g
+
+### secondary grouping variables (biomes)
+### group means are a departure from the primary group mean
+
+
+#for(y in 1:nyears){
+##M.2[y] ~ dnorm(0,0.1)
+#tau.mu2.y[y] ~ dgamma(0.001,0.001)
+# for(m in 1:ngroups2){
+#
+#m.logtheta2[m,y] ~ dnorm(0,tau.mu2.y[y])# 
+#
+#}#y
+#}#m
+
+
+
+
+### secondary grouping variables (biomes)
+### group means are a departure from the primary group mean
+ for(m in 1:ngroups2){
+
+m.logtheta2[m,1] <- 0
+
+tau.mu2.y[m] ~ dgamma(0.001,001) # precision of hte first-difference time-series for group 2 means
+for(y in 2:nyears){
+
+m.logtheta2[m,y] ~ dnorm(m.logtheta2[m,y-1],tau.mu2.y[m])# 
+
+}#y
+}#m
+
+
+
+
+
+
+for(m in 1:ngroups2){
+ for(g in 1:ngroups1){
+for(y in 1:nyears){
+mu.logtheta2[g,m,y] <- mu.logtheta1[g,y] + m.logtheta2[m,y] #mean for each habitat and wintering group, additive combination of two group effects.g., grassland birds = m, chihuahuan dessert birds = g
+expmu2[g,m,y] <-exp(mu.logtheta2[g,m,y]) #exponentiated average of the log-indices - geometric mean trend for grassland birds that winter in chihuahan dessert
+}#y 
+}#g
+}#m
+
+
+
+
+
+
+### priors
+#tau.mu2.y ~ dgamma(0.001,0.001) # precision of group 2 means, centered on yearly average
+# the above assumes that hte variance of the group-2 departures from the group-1 means doesn't change over time. 
+# this is ok because it's all on the log scale and the mean of the departures does change. 
+
+for(y in 1:nyears){
+for(g in 1:ngroups1){
+
+   prec.logtheta[g,y] ~ dgamma(0.001,0.001) #prior for the precision of the logtransformed indices
+   tau[g,y] <- 1 / pow(prec.logtheta[g,y], 0.5) # SE around logtheta
+}#g
+}#y
+
+
+
+
+### derived family, biome, migrate, birdgroup, AI, native, and winter summaries
+
+for(m in 1:ngroups2){
+
+Nlost.biome[m] <- Nsum.biome[m,1]-Nsum.biome[m,nyears] ### number of birds lost overall species
+plost.biome[m] <- (Nsum.biome[m,nyears]/Nsum.biome[m,1])-1 ### proportion of birds lost overall species
+
+Nalost.biome[m,1] <- 0
+
+for(y in 2:nyears){
+Nalost.biome[m,y] <- -1*(Nsum.biome[m,1]-Nsum.biome[m,y])
+}
+for(y in 1:nyears){
+Nsum.biome[m,y] <- sum(N[spinbiomes[1:nsppbiomes[m],m],y]) #estimated group total individuals
+
+}
+
+}#g
+
+
+################################
+
+for(g in 1:ngroups1){
+
+Nlost.winter[g] <- Nsum.winter[g,1]-Nsum.winter[g,nyears] ### number of birds lost overall species
+plost.winter[g] <- (Nsum.winter[g,nyears]/Nsum.winter[g,1])-1 ### proportion of birds lost overall species
+
+Nalost.winter[g,1] <- 0
+
+for(y in 2:nyears){
+Nalost.winter[g,y] <- -1*(Nsum.winter[g,1]-Nsum.winter[g,y])
+}
+for(y in 1:nyears){
+Nsum.winter[g,y] <- sum(N[spinwinters[1:nsppwinters[g],g],y]) #estimated group total individuals
+
+}
+
+}#g
+
+
+################################
+
+for(f in 1:nfams){
+
+Nlost.fam[f] <- Nsum.fam[f,1]-Nsum.fam[f,nyears] ### number of birds lost overall species - positive = loss
+plost.fam[f] <- (Nsum.fam[f,nyears]/Nsum.fam[f,1])-1 ### number of birds lost overall species
+
+Nalost.fam[f,1] <- 0
+
+for(y in 2:nyears){
+Nalost.fam[f,y] <- -1*(Nsum.fam[f,1]-Nsum.fam[f,y])
+}
+
+
+for(y in 1:nyears){
+Nsum.fam[f,y] <- sum(N[spinfams[1:nsppfams[f],f],y]) #estimated group total individuals
+
+
+}
+
+}#f
+################################
+
+for(m in 1:nmigrates){
+
+Nlost.migrate[m] <- Nsum.migrate[m,1]-Nsum.migrate[m,nyears] ### number of birds lost overall species - positive = loss
+plost.migrate[m] <- (Nsum.migrate[m,nyears]/Nsum.migrate[m,1])-1 ### number of birds lost overall species
+
+Nalost.migrate[m,1] <- 0
+
+for(y in 2:nyears){
+Nalost.migrate[m,y] <- -1*(Nsum.migrate[m,1]-Nsum.migrate[m,y])
+}
+
+
+for(y in 1:nyears){
+Nsum.migrate[m,y] <- sum(N[spinmigrates[1:nsppmigrates[m],m],y]) #estimated group total individuals
+
+
+}
+
+}#m
+
+
+################################
+
+for(m in 1:nbirdgroups){
+
+Nlost.birdgroup[m] <- Nsum.birdgroup[m,1]-Nsum.birdgroup[m,nyears] ### number of birds lost overall species - positive = loss
+plost.birdgroup[m] <- (Nsum.birdgroup[m,nyears]/Nsum.birdgroup[m,1])-1 ### number of birds lost overall species
+
+Nalost.birdgroup[m,1] <- 0
+
+for(y in 2:nyears){
+Nalost.birdgroup[m,y] <- -1*(Nsum.birdgroup[m,1]-Nsum.birdgroup[m,y])
+}
+
+
+for(y in 1:nyears){
+Nsum.birdgroup[m,y] <- sum(N[spinbirdgroups[1:nsppbirdgroups[m],m],y]) #estimated group total individuals
+
+
+}
+
+}#m
+
+################################
+
+for(m in 1:nais){
+
+Nlost.ai[m] <- Nsum.ai[m,1]-Nsum.ai[m,nyears] ### number of birds lost overall species - positive = loss
+plost.ai[m] <- (Nsum.ai[m,nyears]/Nsum.ai[m,1])-1 ### number of birds lost overall species
+
+Nalost.ai[m,1] <- 0
+
+for(y in 2:nyears){
+Nalost.ai[m,y] <- -1*(Nsum.ai[m,1]-Nsum.ai[m,y])
+}
+
+
+for(y in 1:nyears){
+Nsum.ai[m,y] <- sum(N[spinais[1:nsppais[m],m],y]) #estimated group total individuals
+
+
+}
+
+}#m
+
+################################
+
+for(m in 1:nnatives){
+
+Nlost.native[m] <- Nsum.native[m,1]-Nsum.native[m,nyears] ### number of birds lost overall species - positive = loss
+plost.native[m] <- (Nsum.native[m,nyears]/Nsum.native[m,1])-1 ### number of birds lost overall species
+
+Nalost.native[m,1] <- 0
+
+for(y in 2:nyears){
+Nalost.native[m,y] <- -1*(Nsum.native[m,1]-Nsum.native[m,y])
+}
+
+
+for(y in 1:nyears){
+Nsum.native[m,y] <- sum(N[spinnatives[1:nsppnatives[m],m],y]) #estimated group total individuals
+
+
+}
+
+}#m
+
+
+### derived subgroup trajectories
+
+for(g in 1:ngroups1){
+for(m in subgrpsl[1:nsubgrps[g],g]){
+
+for(y in 1:nyears){
+Nsum.subgrp[g,m,y] <- sum(N[spsubgrpmat[g,m,1:nsppsubbiomesmat[g,m]],y]) #estimated group total individuals
+
+}
+
+}
+}
+
+
+
+
+
+	   
+}

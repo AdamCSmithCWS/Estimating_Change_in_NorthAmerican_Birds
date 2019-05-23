@@ -1,0 +1,36 @@
+## model used to smooth series of annual indices, that have an estimated precision
+
+model {
+
+  for (i in 1:ncounts) { 
+	lindex[i] ~ dnorm(mu[i],preci[i]) # response
+	mu[i] ~ dnorm(x.gam[i],tau) #expected response
+	
+} ## expected response
+
+	sd <- 1/pow(tau,0.5)
+  scale <- 1/tau ## convert tau to standard GLM scale
+  tau ~ dgamma(.05,.005) ## precision parameter prior 
+  ## Parametric effect priors CHECK tau=1/10^2 is appropriate!
+ 
+
+  x.gam <- X %*% b ## expected response
+
+ for (i in 1:1) { b[i] ~ dnorm(0,0.01) }
+  ## prior for s(year)... 
+  K1 <- S1[1:(nknots-1),1:(nknots-1)] * lambda[1]  + S1[1:(nknots-1),(nknots):((nknots*2)-2)] * lambda[2]
+  b[2:(nknots)] ~ dmnorm(zero[2:(nknots)],K1) 
+  ## smoothing parameter priors CHECK...
+  for (i in 1:2) {
+    lambda[i] ~ dgamma(.05,.005)
+    rho[i] <- log(lambda[i])
+  }
+
+
+
+
+
+### derived parameters
+ind.pred <- X.pred %*% b #full predicted values
+
+}

@@ -1,0 +1,530 @@
+species,sci_name,sort,Breeding.Biome,Winter.Biome,Family,bird.group,Migrate,AI,native,popest,popestlci,popestuci,year_est1,year_est2,Pop.source,Tr_source
+Abert's Towhee,Melozone aberti,1817,Aridlands,Southwestern Aridlands,Passerellidae,landbird,R,other,native,890243,429538,1469410,2006,2015,PIF0615,BBS7017
+Acadian Flycatcher,Empidonax virescens,1303,Eastern Forest,Mexico-Central America,Tyrannidae,landbird,M,other,native,5227271,4728009,5829898,2006,2015,PIF0615,BBS7017
+Acorn Woodpecker,Melanerpes formicivorus,939,Western Forest,Widespread,Picidae,landbird,R,other,native,2226303,1452256,3390813,2006,2015,PIF0615,BBS7017
+Alder Flycatcher,Empidonax alnorum,1304,Boreal Forest,South America,Tyrannidae,landbird,M,other,native,117998630,99384651,141184247,2006,2015,PIF0615,BBS7017
+Allen's Hummingbird,Selasphorus sasin,342,Aridlands,Mexico-Central America,Trochilidae,landbird,M,other,native,1484682,348049,4475111,2006,2015,PIF0615,BBS7017
+American Avocet,Recurvirostra americana,444,Wetland,Widespread,Recurvirostridae,shorebird,M,other,native,450000,180000,1125000,2011,2013,Shoreb12,BBS7017
+American Bittern,Botaurus lentiginosus,727,Wetland,Temperate North America,Ardeidae,waterbird,M,other,native,2507797,2005616,3117498,2006,2015,PIF0615,BBS7017
+American Black Duck,Anas rubripes,49,Wetland,Temperate North America,Anatidae,waterfowl,M,other,native,583500,500200,666800,2013,2017,FWS1317,BBS7017
+American Coot,Fulica americana,435,Wetland,Widespread,Rallidae,waterbird,M,other,native,5517522,4109506,7381712,2006,2015,PIF0615,BBS7017
+American Crow,Corvus brachyrhynchos,1395,Habitat Generalist,Temperate North America,Corvidae,landbird,M,other,native,28047630,26447403,29639378,2006,2015,PIF0615,BBS7017
+American Dipper,Cinclus mexicanus,1514,Wetland,Temperate North America,Cinclidae,landbird,R,other,native,151919,114060,200186,2006,2015,PIF0615,BBS7017
+American Golden-Plover,Pluvialis dominica,452,Arctic Tundra,South America,Charadriidae,shorebird,M,other,native,500000,294200,705800,2011,2013,Shoreb12,Mig7416
+American Goldfinch,Spinus tristis,1771,Forest Generalist,Temperate North America,Fringillidae,landbird,M,other,native,44092850,41554624,46767583,2006,2015,PIF0615,BBS7017
+American Kestrel,Falco sparverius,998,Habitat Generalist,Widespread,Falconidae,landbird,M,other,native,2827776,2564206,3116508,2006,2015,PIF0615,BBS7017
+American Oystercatcher,Haematopus palliatus,446,Coasts,Coastal,Haematopodidae,shorebird,M,other,native,11000,10700,11300,2011,2013,Shoreb12,CBC7017
+American Pipit,Anthus rubescens,1678,Arctic Tundra,Temperate North America,Motacillidae,landbird,M,other,native,18034890,17874051,18354686,2006,2015,PIF0615,CBC7017
+American Redstart,Setophaga ruticilla,1983,Eastern Forest,Widespread Neotropical,Parulidae,landbird,M,other,native,42464674,37027311,48475245,2006,2015,PIF0615,BBS7017
+American Robin,Turdus migratorius,1603,Forest Generalist,Temperate North America,Turdidae,landbird,M,other,native,366076928,337429985,392723825,2006,2015,PIF0615,BBS7017
+American Three-toed Woodpecker,Picoides dorsalis,958,Boreal Forest,Temperate North America,Picidae,landbird,R,other,native,1564320,1108671,2160148,2006,2015,PIF0615,BBS7017
+American Tree Sparrow,Spizelloides arborea,1828,Arctic Tundra,Temperate North America,Passerellidae,landbird,M,other,native,26412817,19492087,36200474,2006,2015,PIF0615,CBC7017
+American White Pelican,Pelecanus erythrorhynchos,724,Wetland,Temperate North America,Pelecanidae,waterbird,M,other,native,414730,299521,546711,2006,2015,PIF0615,BBS7017
+American Wigeon,Mareca americana,44,Wetland,Temperate North America,Anatidae,waterfowl,M,other,native,2997300,2640100,3354500,2013,2017,FWS1317,FWS7017
+American Woodcock,Scolopax minor,512,Eastern Forest,Temperate North America,Scolopacidae,shorebird,M,other,native,3500000,3000000,4000000,2011,2013,Shoreb12,SGS6817
+Ancient Murrelet,Synthliboramphus antiquus,555,Coasts,Marine,Alcidae,waterbird,M,other,native,1000000,500000,1500000,1990,1992,BNA2010,CBC7017
+Anhinga,Anhinga anhinga,723,Wetland,Widespread Neotropical,Anhingidae,waterbird,M,other,native,27000,20000,34000,1978,1980,BNA2000,BBS7017
+Anna's Hummingbird,Calypte anna,336,Aridlands,Temperate North America,Trochilidae,landbird,M,other,native,8772569,4880026,16549527,2006,2015,PIF0615,BBS7017
+Arctic Tern,Sterna paradisaea,615,Arctic Tundra,Coastal,Laridae,waterbird,M,other,native,1000000,250000,1750000,2004,2006,WPE5,BBS9317
+Arctic Warbler,Phylloscopus borealis,1526,Arctic Tundra,Widespread,Phylloscopidae,landbird,M,other,native,8201201,2638973,16439186,2006,2015,PIF0615,BBS9317
+Ash-throated Flycatcher,Myiarchus cinerascens,1247,Aridlands,Mexico-Central America,Tyrannidae,landbird,M,other,native,6847348,5661743,8193398,2006,2015,PIF0615,BBS7017
+Atlantic Puffin,Fratercula arctica,562,Coasts,Marine,Alcidae,waterbird,M,other,native,375000,350000,400000,1998,2000,BNA2002,CBC7017
+Bachman's Sparrow,Peucaea aestivalis,1825,Eastern Forest,Temperate North America,Passerellidae,landbird,R,other,native,167964,102917,256160,2006,2015,PIF0615,BBS7017
+Baird's Sandpiper,Calidris bairdii,500,Arctic Tundra,South America,Scolopacidae,shorebird,M,other,native,300000,120000,750000,2011,2013,Shoreb12,Mig7416
+Baird's Sparrow,Centronyx bairdii,1844,Grassland,Southwestern Aridlands,Passerellidae,landbird,M,other,native,3440174,2322349,4825893,2006,2015,PIF0615,BBS7017
+Bald Eagle,Haliaeetus leucocephalus,795,Wetland,Temperate North America,Accipitridae,landbird,M,other,native,200000,100000,300000,2015,2017,ACAD,BBS7017
+Baltimore Oriole,Icterus galbula,1922,Eastern Forest,Widespread Neotropical,Icteridae,landbird,M,other,native,11806532,10808329,12963225,2006,2015,PIF0615,BBS7017
+Band-tailed Pigeon,Patagioenas fasciata,156,Western Forest,Mexico-Central America,Columbidae,landbird,M,other,native,1455144,1049053,1990079,2006,2015,PIF0615,BBS7017
+Bank Swallow,Riparia riparia,1430,Habitat Generalist,South America,Hirundinidae,landbird,M,AI,native,7940368,6125188,10752527,2006,2015,PIF0615,BBS7017
+Barn Owl,Tyto alba,828,Habitat Generalist,Widespread,Tytonidae,landbird,R,other,native,130751,81975,193386,2006,2015,PIF0615,BBS7017
+Barn Swallow,Hirundo rustica,1433,Habitat Generalist,South America,Hirundinidae,landbird,M,AI,native,46855476,43409178,50012099,2006,2015,PIF0615,BBS7017
+Barred Owl,Strix varia,860,Forest Generalist,Temperate North America,Strigidae,landbird,R,other,native,3458782,3024086,3952819,2006,2015,PIF0615,BBS7017
+Barrow's Goldeneye,Bucephala islandica,74,Wetland,Temperate North America,Anatidae,waterfowl,M,other,native,204250,102125,306375,2004,2006,SeDu07,BBS7017
+Bay-breasted Warbler,Setophaga castanea,1990,Boreal Forest,Mexico-Central America,Parulidae,landbird,M,other,native,9892605,6894711,13872180,2006,2015,PIF0615,BBS7017
+Bell's Sparrow,Artemisiospiza belli,1840,Aridlands,Southwestern Aridlands,Passerellidae,landbird,M,other,native,214853,89930,390058,2006,2015,PIF0615,BBS7017
+Bell's Vireo,Vireo bellii,1349,Aridlands,Mexico-Central America,Vireonidae,landbird,M,other,native,4599734,3593221,5764813,2006,2015,PIF0615,BBS7017
+Belted Kingfisher,Megaceryle alcyon,907,Wetland,Widespread,Alcedinidae,landbird,M,other,native,1843798,1568548,2159306,2006,2015,PIF0615,BBS7017
+Bendire's Thrasher,Toxostoma bendirei,1625,Aridlands,Southwestern Aridlands,Mimidae,landbird,M,other,native,56338,30887,93302,2006,2015,PIF0615,BBS7017
+Bewick's Wren,Thryomanes bewickii,1472,Aridlands,Temperate North America,Troglodytidae,landbird,R,other,native,4567446,3627322,5765670,2006,2015,PIF0615,BBS7017
+Black-and-white Warbler,Mniotilta varia,1954,Eastern Forest,Widespread Neotropical,Parulidae,landbird,M,other,native,17709569,15812133,19681290,2006,2015,PIF0615,BBS7017
+Black-backed Woodpecker,Picoides arcticus,959,Boreal Forest,Temperate North America,Picidae,landbird,R,other,native,1734181,1251409,2296411,2006,2015,PIF0615,BBS7017
+Black-bellied Plover,Pluvialis squatarola,450,Arctic Tundra,Coastal,Charadriidae,shorebird,M,other,native,362700,200667,541500,2011,2013,Shoreb12,Mig7416
+Black-billed Cuckoo,Coccyzus erythropthalmus,209,Eastern Forest,South America,Cuculidae,landbird,M,other,native,875781,735134,1051851,2006,2015,PIF0615,BBS7017
+Black-billed Magpie,Pica hudsonia,1391,Habitat Generalist,Temperate North America,Corvidae,landbird,R,other,native,6023555,5190448,7003608,2006,2015,PIF0615,BBS7017
+Black-capped Chickadee,Poecile atricapillus,1436,Forest Generalist,Temperate North America,Paridae,landbird,R,other,native,43031705,39633241,46269089,2006,2015,PIF0615,BBS7017
+Black-chinned Hummingbird,Archilochus alexandri,333,Western Forest,Mexico-Central America,Trochilidae,landbird,M,other,native,8179118,5809219,10961926,2006,2015,PIF0615,BBS7017
+Black-chinned Sparrow,Spizella atrogularis,1834,Aridlands,Southwestern Aridlands,Passerellidae,landbird,M,other,native,293554,150962,524619,2006,2015,PIF0615,BBS7017
+Black-crested Titmouse,Baeolophus atricristatus,1446,Aridlands,Temperate North America,Paridae,landbird,R,other,native,642491,414558,1018349,2006,2015,PIF0615,BBS7017
+Black-crowned Night-Heron,Nycticorax nycticorax,754,Wetland,Widespread,Ardeidae,waterbird,M,other,native,419820,292104,595456,2006,2015,PIF0615,BBS7017
+Black-headed Grosbeak,Pheucticus melanocephalus,2052,Western Forest,Mexico-Central America,Cardinalidae,landbird,M,other,native,12185173,10701801,13695616,2006,2015,PIF0615,BBS7017
+Black-legged Kittiwake,Rissa tridactyla,566,Coasts,Marine,Laridae,waterbird,M,other,native,1550000,1162500,1937500,2006,2008,BNA2009,CBC7017
+Black-necked Stilt,Himantopus mexicanus,443,Wetland,Widespread,Recurvirostridae,shorebird,M,other,native,177100,70840,442750,2011,2013,Shoreb12,BBS7017
+Black-tailed Gnatcatcher,Polioptila melanura,1509,Aridlands,Southwestern Aridlands,Polioptilidae,landbird,R,other,native,6527338,4101720,10094127,2006,2015,PIF0615,BBS7017
+Black-throated Blue Warbler,Setophaga caerulescens,1995,Boreal Forest,Caribbean,Parulidae,landbird,M,other,native,2415903,2069260,2822969,2006,2015,PIF0615,BBS7017
+Black-throated Gray Warbler,Setophaga nigrescens,2008,Western Forest,Mexico-Central America,Parulidae,landbird,M,other,native,3130246,2558225,3733825,2006,2015,PIF0615,BBS7017
+Black-throated Green Warbler,Setophaga virens,2012,Boreal Forest,Mexico-Central America,Parulidae,landbird,M,other,native,9177716,7924382,10581319,2006,2015,PIF0615,BBS7017
+Black-throated Sparrow,Amphispiza bilineata,1838,Aridlands,Southwestern Aridlands,Passerellidae,landbird,M,other,native,31040032,26228164,36813986,2006,2015,PIF0615,BBS7017
+Black-whiskered Vireo,Vireo altiloquus,1362,Eastern Forest,South America,Vireonidae,landbird,M,other,native,84242,1998,207072,2006,2015,PIF0615,BBS9317
+Black Guillemot,Cepphus grylle,547,Coasts,Marine,Alcidae,waterbird,M,other,native,500000,250000,750000,1984,1986,BNA2002,CBC7017
+Black Oystercatcher,Haematopus bachmani,447,Coasts,Coastal,Haematopodidae,shorebird,R,other,native,10000,6667,15000,2011,2013,Shoreb12,CBC7017
+Black Phoebe,Sayornis nigricans,1317,Wetland,Temperate North America,Tyrannidae,landbird,M,other,native,1170291,816450,1641836,2006,2015,PIF0615,BBS7017
+Black Scoter,Melanitta americana,70,Arctic Tundra,Marine,Anatidae,waterfowl,M,other,native,350000,262500,437500,2004,2006,SeDu07,CBC7017
+Black Skimmer,Rynchops niger,621,Coasts,Coastal,Laridae,waterbird,M,other,native,60000,48000,72000,1975,1977,BNA1994,BBS7017
+Black Swift,Cypseloides niger,253,Western Forest,South America,Apodidae,landbird,M,AI,native,88506,34390,198559,2006,2015,PIF0615,BBS7017
+Black Tern,Chlidonias niger,610,Wetland,Marine,Laridae,waterbird,M,other,native,2331116,1695896,3119894,2006,2015,PIF0615,BBS7017
+Black Turnstone,Arenaria melanocephala,483,Coasts,Coastal,Scolopacidae,shorebird,M,other,native,95000,76000,114000,2011,2013,Shoreb12,CBC7017
+Black Vulture,Coragyps atratus,765,Habitat Generalist,Widespread,Cathartidae,landbird,R,other,native,1864137,1555779,2249923,2006,2015,PIF0615,BBS7017
+Blackburnian Warbler,Setophaga fusca,1991,Boreal Forest,South America,Parulidae,landbird,M,other,native,13271149,10865077,16109037,2006,2015,PIF0615,BBS7017
+Blackpoll Warbler,Setophaga striata,1994,Boreal Forest,South America,Parulidae,landbird,M,other,native,59716232,45066327,76124820,2006,2015,PIF0615,BBS7017
+Blue-gray Gnatcatcher,Polioptila caerulea,1506,Habitat Generalist,Widespread,Polioptilidae,landbird,M,other,native,229194394,195048713,266969269,2006,2015,PIF0615,BBS7017
+Blue-headed Vireo,Vireo solitarius,1355,Boreal Forest,Mexico-Central America,Vireonidae,landbird,M,other,native,12765014,11050138,14721085,2006,2015,PIF0615,BBS7017
+Blue-winged Teal,Spatula discors,38,Wetland,Widespread,Anatidae,waterfowl,M,other,native,7879800,7110600,8648900,2013,2017,FWS1317,FWS7017
+Blue-winged Warbler,Vermivora cyanoptera,1953,Eastern Forest,Mexico-Central America,Parulidae,landbird,M,other,native,684415,578230,803348,2006,2015,PIF0615,BBS7017
+Blue Grosbeak,Passerina caerulea,2058,Forest Generalist,Mexico-Central America,Cardinalidae,landbird,M,other,native,20938581,19404702,22644996,2006,2015,PIF0615,BBS7017
+Blue Jay,Cyanocitta cristata,1382,Eastern Forest,Temperate North America,Corvidae,landbird,M,other,native,17238587,15864197,18715069,2006,2015,PIF0615,BBS7017
+Boat-tailed Grackle,Quiscalus major,1940,Wetland,Temperate North America,Icteridae,landbird,R,other,native,2156489,1297665,3550285,2006,2015,PIF0615,BBS7017
+Bobolink,Dolichonyx oryzivorus,1887,Grassland,South America,Icteridae,landbird,M,other,native,10195298,8796086,11917384,2006,2015,PIF0615,BBS7017
+Bohemian Waxwing,Bombycilla garrulus,1637,Boreal Forest,Temperate North America,Bombycillidae,landbird,M,other,native,2507863,1641840,3491482,2006,2015,PIF0615,BBS9317
+Bonaparte's Gull,Chroicocephalus philadelphia,570,Wetland,Coastal,Laridae,waterbird,M,other,native,785266,442937,1198079,2006,2015,PIF0615,BBS9317
+Boreal Chickadee,Poecile hudsonicus,1440,Boreal Forest,Temperate North America,Paridae,landbird,R,other,native,13208240,10477170,16444759,2006,2015,PIF0615,BBS7017
+Brandt's Cormorant,Phalacrocorax penicillatus,717,Coasts,Coastal,Phalacrocoracidae,waterbird,M,other,native,125000,81250,168750,1989,1991,BNA1998,CBC7017
+Brant,Branta bernicla,20,Arctic Tundra,Coastal,Anatidae,waterfowl,M,other,native,403482,363134,443830,2013,2015,CAFF18,CAFF
+Brewer's Blackbird,Euphagus cyanocephalus,1938,Habitat Generalist,Temperate North America,Icteridae,landbird,M,other,native,23324285,20136678,27110785,2006,2015,PIF0615,BBS7017
+Brewer's Sparrow,Spizella breweri,1831,Aridlands,Southwestern Aridlands,Passerellidae,landbird,M,other,native,16834981,13155782,21238196,2006,2015,PIF0615,BBS7017
+Bridled Titmouse,Baeolophus wollweberi,1442,Western Forest,Mexico-Central America,Paridae,landbird,R,other,native,69340,22843,147260,2006,2015,PIF0615,BBS9317
+Broad-tailed Hummingbird,Selasphorus platycercus,340,Western Forest,Mexico-Central America,Trochilidae,landbird,M,other,native,8804795,5880867,12313443,2006,2015,PIF0615,BBS7017
+Broad-winged Hawk,Buteo platypterus,820,Forest Generalist,Widespread Neotropical,Accipitridae,landbird,M,other,native,1804126,1598612,2029385,2006,2015,PIF0615,BBS7017
+Bronzed Cowbird,Molothrus aeneus,1932,Aridlands,Widespread Neotropical,Icteridae,landbird,M,other,native,816191,439751,1339476,2006,2015,PIF0615,BBS7017
+Brown-crested Flycatcher,Myiarchus tyrannulus,1250,Aridlands,Mexico-Central America,Tyrannidae,landbird,M,other,native,1032206,639470,1584755,2006,2015,PIF0615,BBS7017
+Brown-headed Cowbird,Molothrus ater,1933,Habitat Generalist,Temperate North America,Icteridae,landbird,M,other,native,126705388,117868557,135950409,2006,2015,PIF0615,BBS7017
+Brown-headed Nuthatch,Sitta pusilla,1452,Eastern Forest,Temperate North America,Sittidae,landbird,R,other,native,1578602,1352620,1826550,2006,2015,PIF0615,BBS7017
+Brown Creeper,Certhia americana,1453,Forest Generalist,Temperate North America,Certhiidae,landbird,M,other,native,9484338,7757209,11639138,2006,2015,PIF0615,BBS7017
+Brown Pelican,Pelecanus occidentalis,725,Coasts,Coastal,Pelecanidae,waterbird,M,other,native,100000,90000,110000,1998,2000,BNA2014,BBS7017
+Brown Thrasher,Toxostoma rufum,1622,Eastern Forest,Temperate North America,Mimidae,landbird,M,other,native,6168180,5625720,6771313,2006,2015,PIF0615,BBS7017
+Buff-breasted Sandpiper,Calidris subruficollis,504,Arctic Tundra,South America,Scolopacidae,shorebird,M,other,native,56000,35000,78000,2011,2013,Shoreb12,Mig7416
+Bufflehead,Bucephala albeola,72,Wetland,Temperate North America,Anatidae,waterfowl,M,other,native,1400000,1050000,1750000,2004,2006,SeDu07,BBS7017
+Bullock's Oriole,Icterus bullockii,1916,Western Forest,Mexico-Central America,Icteridae,landbird,M,other,native,6949229,6086900,7839504,2006,2015,PIF0615,BBS7017
+Burrowing Owl,Athene cunicularia,856,Grassland,Temperate North America,Strigidae,landbird,M,other,native,987921,625174,1537376,2006,2015,PIF0615,BBS7017
+Bushtit,Psaltriparus minimus,1448,Western Forest,Temperate North America,Aegithalidae,landbird,R,other,native,2310447,1807618,2949870,2006,2015,PIF0615,BBS7017
+Cackling Goose,Branta hutchinsii,22,Arctic Tundra,Temperate North America,Anatidae,waterfowl,M,other,native,4510202,4059182,4961222,2013,2015,CAFF18,CAFF
+Cactus Wren,Campylorhynchus brunneicapillus,1482,Aridlands,Southwestern Aridlands,Troglodytidae,landbird,R,other,native,3034276,2268727,4012714,2006,2015,PIF0615,BBS7017
+California Gull,Larus californicus,585,Wetland,Temperate North America,Laridae,waterbird,M,other,native,1065791,658357,1567466,2006,2015,PIF0615,BBS7017
+California Quail,Callipepla californica,104,Aridlands,Temperate North America,Odontophoridae,landbird,R,other,native,3358401,2374290,4473991,2006,2015,PIF0615,BBS7017
+California Scrub-Jay,Aphelocoma californica,1385,Western Forest,Temperate North America,Corvidae,landbird,R,other,native,1346997,859873,2030181,2006,2015,PIF0615,BBS7017
+California Thrasher,Toxostoma redivivum,1627,Aridlands,Temperate North America,Mimidae,landbird,R,other,native,155226,77498,274331,2006,2015,PIF0615,BBS7017
+California Towhee,Melozone crissalis,1816,Aridlands,Temperate North America,Passerellidae,landbird,R,other,native,5247688,3750592,7222092,2006,2015,PIF0615,BBS7017
+Calliope Hummingbird,Selasphorus calliope,346,Western Forest,Mexico-Central America,Trochilidae,landbird,M,other,native,4463289,2652793,7024258,2006,2015,PIF0615,BBS7017
+Canada Goose,Branta canadensis,23,Wetland,Temperate North America,Anatidae,waterfowl,M,other,native,6919635,6227672,7611599,2014,2016,CAFF18,CBC7017
+Canada Jay,Perisoreus canadensis,1364,Boreal Forest,Temperate North America,Corvidae,landbird,R,other,native,26652111,23501504,30178807,2006,2015,PIF0615,BBS7017
+Canada Warbler,Cardellina canadensis,2022,Boreal Forest,South America,Parulidae,landbird,M,other,native,2597361,2028500,3242734,2006,2015,PIF0615,BBS7017
+Canvasback,Aythya valisineria,54,Wetland,Temperate North America,Anatidae,waterfowl,M,other,native,739700,621300,858100,2013,2017,FWS1317,FWS7017
+Canyon Towhee,Melozone fusca,1814,Aridlands,Southwestern Aridlands,Passerellidae,landbird,R,other,native,2792820,2085096,3605781,2006,2015,PIF0615,BBS7017
+Canyon Wren,Catherpes mexicanus,1457,Aridlands,Southwestern Aridlands,Troglodytidae,landbird,R,other,native,423956,325189,554507,2006,2015,PIF0615,BBS7017
+Cape May Warbler,Setophaga tigrina,1985,Boreal Forest,Caribbean,Parulidae,landbird,M,other,native,7043668,4900702,9894881,2006,2015,PIF0615,BBS7017
+Carolina Chickadee,Poecile carolinensis,1435,Eastern Forest,Temperate North America,Paridae,landbird,R,other,native,13179980,12174905,14399165,2006,2015,PIF0615,BBS7017
+Carolina Wren,Thryothorus ludovicianus,1471,Eastern Forest,Temperate North America,Troglodytidae,landbird,R,other,native,17733395,15969003,19620346,2006,2015,PIF0615,BBS7017
+Caspian Tern,Hydroprogne caspia,608,Wetland,Coastal,Laridae,waterbird,M,other,native,78325,41255,130130,2006,2015,PIF0615,BBS7017
+Cassin's Auklet,Ptychoramphus aleuticus,556,Coasts,Marine,Alcidae,waterbird,M,other,native,3200000,2400000,4000000,2007,2009,BNA2011,CBC7017
+Cassin's Finch,Haemorhous cassinii,1751,Western Forest,Temperate North America,Fringillidae,landbird,M,other,native,3191950,2521299,4034402,2006,2015,PIF0615,BBS7017
+Cassin's Kingbird,Tyrannus vociferans,1275,Western Forest,Mexico-Central America,Tyrannidae,landbird,M,AI,native,2480328,1833328,3291825,2006,2015,PIF0615,BBS7017
+Cassin's Sparrow,Peucaea cassinii,1824,Grassland,Southwestern Aridlands,Passerellidae,landbird,M,other,native,9598748,7485112,12176616,2006,2015,PIF0615,BBS7017
+Cassin's Vireo,Vireo cassinii,1354,Western Forest,Mexico-Central America,Vireonidae,landbird,M,other,native,4560260,3775193,5412799,2006,2015,PIF0615,BBS7017
+Cattle Egret,Bubulcus ibis,748,Wetland,Widespread,Ardeidae,waterbird,M,other,native,2804856,2196814,3562031,2006,2015,PIF0615,BBS7017
+Cave Swallow,Petrochelidon fulva,1432,Aridlands,Mexico-Central America,Hirundinidae,landbird,M,AI,native,2769841,1680817,4407644,2006,2015,PIF0615,BBS7017
+Cedar Waxwing,Bombycilla cedrorum,1638,Forest Generalist,Temperate North America,Bombycillidae,landbird,M,other,native,63975308,58030057,70240507,2006,2015,PIF0615,BBS7017
+Cerulean Warbler,Setophaga cerulea,1986,Eastern Forest,South America,Parulidae,landbird,M,other,native,528920,363210,714480,2006,2015,PIF0615,BBS7017
+Chestnut-backed Chickadee,Poecile rufescens,1439,Western Forest,Temperate North America,Paridae,landbird,R,other,native,12062509,8656467,16306921,2006,2015,PIF0615,BBS7017
+Chestnut-collared Longspur,Calcarius ornatus,1774,Grassland,Southwestern Aridlands,Calcariidae,landbird,M,other,native,3095825,2101824,4336047,2006,2015,PIF0615,BBS7017
+Chestnut-sided Warbler,Setophaga pensylvanica,1993,Eastern Forest,Mexico-Central America,Parulidae,landbird,M,other,native,18265512,16119410,20584431,2006,2015,PIF0615,BBS7017
+Chihuahuan Raven,Corvus cryptoleucus,1406,Aridlands,Southwestern Aridlands,Corvidae,landbird,M,other,native,277286,193193,390354,2006,2015,PIF0615,BBS7017
+Chimney Swift,Chaetura pelagica,260,Eastern Forest,South America,Apodidae,landbird,M,AI,native,8808551,8013311,9665731,2006,2015,PIF0615,BBS7017
+Chipping Sparrow,Spizella passerina,1829,Forest Generalist,Temperate North America,Passerellidae,landbird,M,other,native,230957566,213377234,249914852,2006,2015,PIF0615,BBS7017
+Chuck-will's-widow,Antrostomus carolinensis,236,Eastern Forest,Mexico-Central America,Caprimulgidae,landbird,M,AI,native,5642111,4800407,6606314,2006,2015,PIF0615,BBS7017
+Chukar,Alectoris chukar,114,Introduced,Introduced,Phasianidae,other,Introduced,other,Introduced,392143,227755,612200,2006,2015,PIF0615,BBS7017
+Cinnamon Teal,Spatula cyanoptera,39,Wetland,Temperate North America,Anatidae,waterfowl,M,other,native,442510,275337,674629,2006,2015,PIF0615,BBS7017
+Clapper Rail,Rallus crepitans,409,Coasts,Coastal,Rallidae,waterbird,R,other,native,170587,85438,286396,2006,2015,PIF0615,BBS7017
+Clark's Grebe,Aechmophorus clarkii,147,Wetland,Temperate North America,Podicipedidae,waterbird,M,other,native,71737,18009,161501,2006,2015,PIF0615,CBC7017
+Clark's Nutcracker,Nucifraga columbiana,1390,Western Forest,Temperate North America,Corvidae,landbird,R,other,native,290441,227717,363870,2006,2015,PIF0615,BBS7017
+Clay-colored Sparrow,Spizella pallida,1830,Grassland,Southwestern Aridlands,Passerellidae,landbird,M,other,native,60149306,51415968,69884231,2006,2015,PIF0615,BBS7017
+Cliff Swallow,Petrochelidon pyrrhonota,1431,Habitat Generalist,South America,Hirundinidae,landbird,M,AI,native,77981069,67646472,89137460,2006,2015,PIF0615,BBS7017
+Common Eider,Somateria mollissima,64,Coasts,Coastal,Anatidae,waterfowl,M,other,native,1264000,948000,1580000,2004,2006,SeDu07,CBC7017
+Common Gallinule,Gallinula galeata,431,Wetland,Widespread,Rallidae,waterbird,M,other,native,500214,251427,938525,2006,2015,PIF0615,BBS7017
+Common Goldeneye,Bucephala clangula,73,Wetland,Temperate North America,Anatidae,waterfowl,M,other,native,1300000,975000,1625000,2004,2006,SeDu07,BBS7017
+Common Grackle,Quiscalus quiscula,1939,Habitat Generalist,Temperate North America,Icteridae,landbird,M,other,native,67132986,61123537,74085853,2006,2015,PIF0615,BBS7017
+Common Ground-Dove,Columbina passerina,170,Aridlands,Southwestern Aridlands,Columbidae,landbird,R,other,native,1989124,1585896,2440861,2006,2015,PIF0615,BBS7017
+Common Loon,Gavia immer,629,Wetland,Temperate North America,Gaviidae,waterbird,M,other,native,1108865,941048,1319057,2006,2015,PIF0615,BBS7017
+Common Merganser,Mergus merganser,77,Wetland,Temperate North America,Anatidae,waterfowl,M,other,native,1200000,600000,1800000,2004,2006,SeDu07,BBS7017
+Common Murre,Uria aalge,543,Coasts,Marine,Alcidae,waterbird,M,other,native,7400000,5550000,9250000,2000,2002,BNA2002,CBC7017
+Common Nighthawk,Chordeiles minor,227,Habitat Generalist,South America,Caprimulgidae,landbird,M,AI,native,21789605,19345867,24683737,2006,2015,PIF0615,BBS7017
+Common Poorwill,Phalaenoptilus nuttallii,230,Aridlands,Southwestern Aridlands,Caprimulgidae,landbird,M,AI,native,1333400,965383,1769426,2006,2015,PIF0615,BBS7017
+Common Raven,Corvus corax,1407,Habitat Generalist,Widespread,Corvidae,landbird,R,other,native,8250632,7605338,8984942,2006,2015,PIF0615,BBS7017
+Common Redpoll,Acanthis flammea,1754,Arctic Tundra,Temperate North America,Fringillidae,landbird,M,other,native,39008853,30299103,49713410,2006,2015,PIF0615,BBS9317
+Common Tern,Sterna hirundo,614,Wetland,Coastal,Laridae,waterbird,M,other,native,468971,175901,985601,2006,2015,PIF0615,BBS7017
+Common Yellowthroat,Geothlypis trichas,1976,Habitat Generalist,Widespread,Parulidae,landbird,M,other,native,75588462,70946562,80532206,2006,2015,PIF0615,BBS7017
+Connecticut Warbler,Oporornis agilis,1966,Boreal Forest,South America,Parulidae,landbird,M,other,native,1751333,970368,2676400,2006,2015,PIF0615,BBS7017
+Cooper's Hawk,Accipiter cooperii,790,Forest Generalist,Widespread,Accipitridae,landbird,M,other,native,844899,770821,925643,2006,2015,PIF0615,BBS7017
+Cordilleran Flycatcher,Empidonax occidentalis,1313,Western Forest,Mexico-Central America,Tyrannidae,landbird,M,other,native,1966693,1283176,2953557,2006,2015,PIF0615,BBS7017
+Costa's Hummingbird,Calypte costae,337,Aridlands,Southwestern Aridlands,Trochilidae,landbird,M,other,native,1583926,611798,3182531,2006,2015,PIF0615,BBS7017
+Couch's Kingbird,Tyrannus couchii,1274,Aridlands,Mexico-Central America,Tyrannidae,landbird,R,AI,native,250613,133762,447501,2006,2015,PIF0615,BBS7017
+Crested Caracara,Caracara cheriway,994,Aridlands,Southwestern Aridlands,Falconidae,landbird,R,other,native,124568,87260,172735,2006,2015,PIF0615,BBS7017
+Crissal Thrasher,Toxostoma crissale,1629,Aridlands,Southwestern Aridlands,Mimidae,landbird,R,other,native,82115,48009,124579,2006,2015,PIF0615,BBS7017
+Curve-billed Thrasher,Toxostoma curvirostre,1620,Aridlands,Southwestern Aridlands,Mimidae,landbird,R,other,native,1026123,728790,1467368,2006,2015,PIF0615,BBS7017
+Dark-eyed Junco,Junco hyemalis,1861,Forest Generalist,Temperate North America,Passerellidae,landbird,M,other,native,223552461,196287624,253775451,2006,2015,PIF0615,BBS7017
+Dickcissel,Spiza americana,2065,Grassland,South America,Cardinalidae,landbird,M,other,native,27896722,23981764,32368972,2006,2015,PIF0615,BBS7017
+Double-crested Cormorant,Phalacrocorax auritus,719,Wetland,Temperate North America,Phalacrocoracidae,waterbird,M,other,native,557887,365672,827251,2006,2015,PIF0615,BBS7017
+Dovekie,Alle alle,542,Coasts,Marine,Alcidae,waterbird,M,other,native,1500,1125,1875,2001,2003,BNA2002,CBC7017
+Downy Woodpecker,Dryobates pubescens,961,Forest Generalist,Temperate North America,Picidae,landbird,R,other,native,13422111,12764602,14141250,2006,2015,PIF0615,BBS7017
+Dunlin,Calidris alpina,497,Arctic Tundra,Widespread,Scolopacidae,shorebird,M,other,native,1500000,744700,2750300,2011,2013,Shoreb12,Mig7416
+Dusky Flycatcher,Empidonax oberholseri,1310,Western Forest,Mexico-Central America,Tyrannidae,landbird,M,other,native,8797209,7024376,10767331,2006,2015,PIF0615,BBS7017
+Dusky Grouse,Dendragapus obscurus,132,Western Forest,Temperate North America,Phasianidae,landbird,R,other,native,300000,75000,525000,2008,2010,ACAD,BBS7017
+Eared Grebe,Podiceps nigricollis,145,Wetland,Temperate North America,Podicipedidae,waterbird,M,other,native,1950442,943872,3659128,2006,2015,PIF0615,BBS7017
+Eastern Bluebird,Sialia sialis,1557,Eastern Forest,Temperate North America,Turdidae,landbird,M,other,native,21439020,20142880,22957637,2006,2015,PIF0615,BBS7017
+Eastern Kingbird,Tyrannus tyrannus,1278,Grassland,South America,Tyrannidae,landbird,M,AI,native,25924168,24123810,27704273,2006,2015,PIF0615,BBS7017
+Eastern Meadowlark,Sturnella magna,1888,Grassland,Temperate North America,Icteridae,landbird,M,other,native,24431724,21928274,27309341,2006,2015,PIF0615,BBS7017
+Eastern Phoebe,Sayornis phoebe,1318,Eastern Forest,Temperate North America,Tyrannidae,landbird,M,other,native,34684436,32601625,37210378,2006,2015,PIF0615,BBS7017
+Eastern Screech-Owl,Megascops asio,833,Eastern Forest,Temperate North America,Strigidae,landbird,R,other,native,496240,378219,645235,2006,2015,PIF0615,BBS7017
+Eastern Towhee,Pipilo erythrophthalmus,1806,Eastern Forest,Temperate North America,Passerellidae,landbird,M,other,native,29338492,27153590,31703146,2006,2015,PIF0615,BBS7017
+Eastern Whip-poor-will,Antrostomus vociferus,242,Eastern Forest,Mexico-Central America,Caprimulgidae,landbird,M,AI,native,1829892,1442373,2231099,2006,2015,PIF0615,BBS7017
+Eastern Wood-Pewee,Contopus virens,1296,Eastern Forest,South America,Tyrannidae,landbird,M,AI,native,6454082,5897588,7036229,2006,2015,PIF0615,BBS7017
+Emperor Goose,Anser canagicus,11,Coasts,Coastal,Anatidae,waterfowl,M,other,native,97953,88158,107748,2013,2015,CAFF18,CAFF
+Eurasian Collared-Dove,Streptopelia decaocto,165,Introduced,Introduced,Columbidae,other,Introduced,other,Introduced,8716074,7657339,10020862,2006,2015,PIF0615,BBS7017
+Eurasian Tree Sparrow,Passer montanus,1669,Introduced,Introduced,Passeridae,other,Introduced,other,Introduced,147064,83601,235172,2006,2015,PIF0615,BBS7017
+European Starling,Sturnus vulgaris,1635,Introduced,Introduced,Sturnidae,other,Introduced,other,Introduced,93371907,85941592,102256039,2006,2015,PIF0615,BBS7017
+Evening Grosbeak,Coccothraustes vespertinus,1701,Boreal Forest,Temperate North America,Fringillidae,landbird,M,other,native,3783375,2963915,4803280,2006,2015,PIF0615,BBS7017
+Ferruginous Hawk,Buteo regalis,827,Grassland,Temperate North America,Accipitridae,landbird,M,other,native,109004,86288,135921,2006,2015,PIF0615,BBS7017
+Field Sparrow,Spizella pusilla,1832,Eastern Forest,Temperate North America,Passerellidae,landbird,M,other,native,9333611,8343751,10393211,2006,2015,PIF0615,BBS7017
+Fish Crow,Corvus ossifragus,1404,Habitat Generalist,Temperate North America,Corvidae,landbird,R,other,native,466887,400029,541005,2006,2015,PIF0615,BBS7017
+Forster's Tern,Sterna forsteri,616,Wetland,Temperate North America,Laridae,waterbird,M,other,native,127120,72306,202189,2006,2015,PIF0615,BBS7017
+Fox Sparrow,Passerella iliaca,1851,Forest Generalist,Temperate North America,Passerellidae,landbird,M,other,native,34605524,27334565,44390905,2006,2015,PIF0615,BBS7017
+Franklin's Gull,Leucophaeus pipixcan,577,Wetland,Coastal,Laridae,waterbird,M,other,native,2329478,1604153,3238650,2006,2015,PIF0615,BBS7017
+Fulvous Whistling-Duck,Dendrocygna bicolor,10,Wetland,Widespread Neotropical,Anatidae,waterfowl,M,other,native,44000,24000,64000,1989,1991,BNA2001,BBS7017
+Gadwall,Mareca strepera,41,Wetland,Temperate North America,Anatidae,waterfowl,M,other,native,3777700,3371500,4183900,2013,2017,FWS1317,FWS7017
+Gambel's Quail,Callipepla gambelii,105,Aridlands,Southwestern Aridlands,Odontophoridae,landbird,R,other,native,5196496,3616310,7051087,2006,2015,PIF0615,BBS7017
+Gila Woodpecker,Melanerpes uropygialis,948,Aridlands,Southwestern Aridlands,Picidae,landbird,R,other,native,589899,288218,1038427,2006,2015,PIF0615,BBS7017
+Gilded Flicker,Colaptes chrysoides,978,Aridlands,Southwestern Aridlands,Picidae,landbird,R,other,native,192377,84549,358522,2006,2015,PIF0615,BBS7017
+Glaucous-winged Gull,Larus glaucescens,591,Coasts,Coastal,Laridae,waterbird,M,other,native,436461,249983,673385,2006,2015,PIF0615,BBS7017
+Glaucous Gull,Larus hyperboreus,592,Coasts,Temperate North America,Laridae,waterbird,M,other,native,510000,170000,850000,2011,2013,BNA2012,CBC7017
+Glossy Ibis,Plegadis falcinellus,759,Wetland,Widespread,Threskiornithidae,waterbird,M,other,native,36394,13092,71380,2006,2015,PIF0615,BBS7017
+Golden-crowned Kinglet,Regulus satrapa,1517,Forest Generalist,Temperate North America,Regulidae,landbird,M,other,native,133267079,103060126,168352603,2006,2015,PIF0615,BBS7017
+Golden-crowned Sparrow,Zonotrichia atricapilla,1859,Arctic Tundra,Temperate North America,Passerellidae,landbird,M,other,native,7502564,4149449,12855995,2006,2015,PIF0615,BBS9317
+Golden-fronted Woodpecker,Melanerpes aurifrons,950,Aridlands,Mexico-Central America,Picidae,landbird,R,other,native,805604,554852,1125322,2006,2015,PIF0615,BBS7017
+Golden-winged Warbler,Vermivora chrysoptera,1952,Eastern Forest,South America,Parulidae,landbird,M,other,native,393305,273065,539488,2006,2015,PIF0615,BBS7017
+Golden Eagle,Aquila chrysaetos,778,Habitat Generalist,Temperate North America,Accipitridae,landbird,M,other,native,146673,125252,171932,2006,2015,PIF0615,BBS7017
+Grace's Warbler,Setophaga graciae,2007,Western Forest,Mexico-Central America,Parulidae,landbird,M,other,native,1513808,887803,2350028,2006,2015,PIF0615,BBS7017
+Grasshopper Sparrow,Ammodramus savannarum,1843,Grassland,Temperate North America,Passerellidae,landbird,M,other,native,33439280,29662396,37709841,2006,2015,PIF0615,BBS7017
+Gray-cheeked Thrush,Catharus minimus,1581,Boreal Forest,South America,Turdidae,landbird,M,other,native,41722960,27552192,60727662,2006,2015,PIF0615,BBS9317
+Gray Catbird,Dumetella carolinensis,1614,Eastern Forest,Mexico-Central America,Mimidae,landbird,M,other,native,28700211,26885945,30804790,2006,2015,PIF0615,BBS7017
+Gray Flycatcher,Empidonax wrightii,1309,Western Forest,Mexico-Central America,Tyrannidae,landbird,M,other,native,2897568,2057762,4045062,2006,2015,PIF0615,BBS7017
+Gray Kingbird,Tyrannus dominicensis,1279,Eastern Forest,South America,Tyrannidae,landbird,M,AI,native,23009,3657,62695,2006,2015,PIF0615,BBS9317
+Gray Partridge,Perdix perdix,119,Introduced,Introduced,Phasianidae,other,Introduced,other,Introduced,823861,635590,1041588,2006,2015,PIF0615,BBS7017
+Gray Vireo,Vireo vicinior,1350,Western Forest,Southwestern Aridlands,Vireonidae,landbird,M,other,native,548027,294748,855433,2006,2015,PIF0615,BBS7017
+Great-tailed Grackle,Quiscalus mexicanus,1941,Habitat Generalist,Widespread,Icteridae,landbird,R,other,native,8242011,5511749,11832954,2006,2015,PIF0615,BBS7017
+Great Black-backed Gull,Larus marinus,593,Wetland,Temperate North America,Laridae,waterbird,M,other,native,145361,70184,251320,2006,2015,PIF0615,BBS7017
+Great Blue Heron,Ardea herodias,734,Wetland,Widespread,Ardeidae,waterbird,M,other,native,618606,552453,698624,2006,2015,PIF0615,BBS7017
+Great Crested Flycatcher,Myiarchus crinitus,1249,Eastern Forest,Mexico-Central America,Tyrannidae,landbird,M,other,native,8799301,7950620,9769449,2006,2015,PIF0615,BBS7017
+Great Egret,Ardea alba,738,Wetland,Widespread,Ardeidae,waterbird,M,other,native,712641,580603,863838,2006,2015,PIF0615,BBS7017
+Great Gray Owl,Strix nebulosa,862,Boreal Forest,Temperate North America,Strigidae,landbird,R,other,native,71240,34370,122631,2006,2015,PIF0615,BBS9317
+Great Horned Owl,Bubo virginianus,845,Habitat Generalist,Widespread,Strigidae,landbird,R,other,native,3784896,3310994,4288285,2006,2015,PIF0615,BBS7017
+Greater Prairie-Chicken,Tympanuchus cupido,135,Grassland,Temperate North America,Phasianidae,landbird,R,other,native,360504,197651,635645,2006,2015,PIF0615,BBS7017
+Greater Roadrunner,Geococcyx californianus,220,Aridlands,Southwestern Aridlands,Cuculidae,landbird,R,other,native,841270,686699,1023445,2006,2015,PIF0615,BBS7017
+Greater Sage-Grouse,Centrocercus urophasianus,126,Aridlands,Temperate North America,Phasianidae,landbird,R,other,native,430000,215000,645000,2015,2017,ACAD,BBS7017
+Greater Scaup,Aythya marila,59,Arctic Tundra,Temperate North America,Anatidae,waterfowl,M,other,native,1606158,513593,3551089,2006,2015,PIF0615,CBC7017
+Greater White-fronted Goose,Anser albifrons,15,Arctic Tundra,Temperate North America,Anatidae,waterfowl,M,other,native,3429375,3086438,3772313,2013,2015,CAFF18,CAFF
+Greater Yellowlegs,Tringa melanoleuca,528,Wetland,Widespread,Scolopacidae,shorebird,M,other,native,137000,54800,342500,2011,2013,Shoreb12,Mig7416
+Green-tailed Towhee,Pipilo chlorurus,1804,Aridlands,Southwestern Aridlands,Passerellidae,landbird,M,other,native,4766829,3664896,6155067,2006,2015,PIF0615,BBS7017
+Green-winged Teal,Anas crecca,53,Wetland,Temperate North America,Anatidae,waterfowl,M,other,native,3929100,3362500,4495600,2013,2017,FWS1317,FWS7017
+Green Heron,Butorides virescens,750,Wetland,Widespread,Ardeidae,waterbird,M,other,native,772671,689060,862103,2006,2015,PIF0615,BBS7017
+Green Jay,Cyanocorax yncas,1375,Aridlands,Mexico-Central America,Corvidae,landbird,R,other,native,56639,30791,92979,2006,2015,PIF0615,BBS7017
+Groove-billed Ani,Crotophaga sulcirostris,224,Habitat Generalist,Widespread Neotropical,Cuculidae,landbird,R,other,native,5000,1250,8750,2015,2017,ACAD,BBS7017
+Gull-billed Tern,Gelochelidon nilotica,607,Coasts,Coastal,Laridae,waterbird,M,other,native,8000,7200,8800,2001,2003,BNA2014,BBS7017
+Gyrfalcon,Falco rusticolus,1005,Arctic Tundra,Temperate North America,Falconidae,landbird,M,other,native,41722,33772,57859,2006,2015,PIF0615,CBC7017
+Hairy Woodpecker,Dryobates villosus,965,Forest Generalist,Temperate North America,Picidae,landbird,R,other,native,8681068,7874994,9508689,2006,2015,PIF0615,BBS7017
+Hammond's Flycatcher,Empidonax hammondii,1308,Western Forest,Mexico-Central America,Tyrannidae,landbird,M,other,native,20160045,16231089,24518510,2006,2015,PIF0615,BBS7017
+Harlequin Duck,Histrionicus histrionicus,65,Wetland,Marine,Anatidae,waterfowl,M,other,native,214000,107000,321000,2004,2006,SeDu07,CBC7017
+Harris's Hawk,Parabuteo unicinctus,812,Aridlands,Southwestern Aridlands,Accipitridae,landbird,R,other,native,51689,29505,86815,2006,2015,PIF0615,BBS7017
+Harris's Sparrow,Zonotrichia querula,1857,Arctic Tundra,Temperate North America,Passerellidae,landbird,M,other,native,2000000,500000,3500000,2015,2017,ACAD,CBC7017
+Henslow's Sparrow,Centronyx henslowii,1845,Grassland,Temperate North America,Passerellidae,landbird,M,other,native,408187,290235,547708,2006,2015,PIF0615,BBS7017
+Hepatic Tanager,Piranga flava,2032,Western Forest,Mexico-Central America,Cardinalidae,landbird,M,other,native,411228,263215,591940,2006,2015,PIF0615,BBS7017
+Hermit Thrush,Catharus guttatus,1584,Forest Generalist,Temperate North America,Turdidae,landbird,M,other,native,71726125,54075176,95680929,2006,2015,PIF0615,BBS7017
+Hermit Warbler,Setophaga occidentalis,2010,Western Forest,Mexico-Central America,Parulidae,landbird,M,other,native,2525603,1808648,3357140,2006,2015,PIF0615,BBS7017
+Herring Gull,Larus argentatus,586,Wetland,Temperate North America,Laridae,waterbird,M,other,native,2891313,1563414,4831139,2009,2011,BNA2017,BBS7017
+Hoary Redpoll,Acanthis hornemanni,1756,Arctic Tundra,Temperate North America,Fringillidae,landbird,M,other,native,12815104,12474111,13252214,2006,2015,PIF0615,CBC7017
+Hooded Merganser,Lophodytes cucullatus,76,Wetland,Temperate North America,Anatidae,waterfowl,M,other,native,485000,363750,606250,2004,2006,SeDu07,BBS7017
+Hooded Oriole,Icterus cucullatus,1910,Aridlands,Mexico-Central America,Icteridae,landbird,M,other,native,350616,236805,494427,2006,2015,PIF0615,BBS7017
+Hooded Warbler,Setophaga citrina,1982,Eastern Forest,Mexico-Central America,Parulidae,landbird,M,other,native,5185197,4523541,5902847,2006,2015,PIF0615,BBS7017
+Horned Grebe,Podiceps auritus,143,Wetland,Temperate North America,Podicipedidae,waterbird,M,other,native,246553,159574,364503,2006,2015,PIF0615,BBS7017
+Horned Lark,Eremophila alpestris,1412,Grassland,Temperate North America,Alaudidae,landbird,M,other,native,100607831,90290833,112734630,2006,2015,PIF0615,BBS7017
+House Finch,Haemorhous mexicanus,1749,Habitat Generalist,Widespread,Fringillidae,landbird,R,other,native,33246130,29546633,37992529,2006,2015,PIF0615,BBS7017
+House Sparrow,Passer domesticus,1668,Introduced,Introduced,Passeridae,other,Introduced,other,Introduced,92842101,83703006,104203385,2006,2015,PIF0615,BBS7017
+House Wren,Troglodytes aedon,1461,Forest Generalist,Temperate North America,Troglodytidae,landbird,M,other,native,43318358,39758949,47473572,2006,2015,PIF0615,BBS7017
+Hudsonian Godwit,Limosa haemastica,480,Wetland,South America,Scolopacidae,shorebird,M,other,native,77000,56424,107100,2011,2013,Shoreb12,Mig7416
+Hutton's Vireo,Vireo huttoni,1351,Western Forest,Temperate North America,Vireonidae,landbird,R,other,native,964653,744358,1213151,2006,2015,PIF0615,BBS7017
+Inca Dove,Columbina inca,169,Aridlands,Southwestern Aridlands,Columbidae,landbird,R,other,native,619057,491301,765612,2006,2015,PIF0615,BBS7017
+Indigo Bunting,Passerina cyanea,2060,Eastern Forest,Mexico-Central America,Cardinalidae,landbird,M,other,native,77494167,73235841,82041052,2006,2015,PIF0615,BBS7017
+Juniper Titmouse,Baeolophus ridgwayi,1444,Western Forest,Temperate North America,Paridae,landbird,R,other,native,291637,201086,392881,2006,2015,PIF0615,BBS7017
+Kentucky Warbler,Geothlypis formosa,1970,Eastern Forest,Mexico-Central America,Parulidae,landbird,M,other,native,2595606,2284175,2937212,2006,2015,PIF0615,BBS7017
+Killdeer,Charadrius vociferus,463,Habitat Generalist,Widespread,Charadriidae,shorebird,M,other,native,2000000,800000,5000000,2011,2013,Shoreb12,BBS7017
+King Eider,Somateria spectabilis,63,Arctic Tundra,Marine,Anatidae,waterfowl,M,other,native,560000,280000,840000,2004,2006,SeDu07,CBC7017
+King Rail,Rallus elegans,412,Wetland,Temperate North America,Rallidae,waterbird,M,other,native,63219,26563,122039,2006,2015,PIF0615,BBS7017
+Ladder-backed Woodpecker,Dryobates scalaris,963,Aridlands,Southwestern Aridlands,Picidae,landbird,R,other,native,2377162,1983369,2827402,2006,2015,PIF0615,BBS7017
+Lapland Longspur,Calcarius lapponicus,1773,Arctic Tundra,Temperate North America,Calcariidae,landbird,M,other,native,68032536,60265772,80590222,2006,2015,PIF0615,BBS9317
+Lark Bunting,Calamospiza melanocorys,1841,Grassland,Southwestern Aridlands,Passerellidae,landbird,M,other,native,11992598,9194389,15233830,2006,2015,PIF0615,BBS7017
+Lark Sparrow,Chondestes grammacus,1836,Grassland,Mexico-Central America,Passerellidae,landbird,M,other,native,10638361,9078588,12343951,2006,2015,PIF0615,BBS7017
+Laughing Gull,Leucophaeus atricilla,576,Coasts,Coastal,Laridae,waterbird,M,other,native,684463,425116,997966,2006,2015,PIF0615,BBS7017
+Lawrence's Goldfinch,Spinus lawrencei,1770,Aridlands,Southwestern Aridlands,Fringillidae,landbird,M,other,native,347128,188186,574120,2006,2015,PIF0615,BBS7017
+Lazuli Bunting,Passerina amoena,2059,Western Forest,Mexico-Central America,Cardinalidae,landbird,M,other,native,6453834,5417754,7643998,2006,2015,PIF0615,BBS7017
+Least Bittern,Ixobrychus exilis,729,Wetland,Widespread,Ardeidae,waterbird,M,other,native,131773,66196,217720,2006,2015,PIF0615,BBS7017
+Least Flycatcher,Empidonax minimus,1307,Eastern Forest,Mexico-Central America,Tyrannidae,landbird,M,other,native,27244220,24465739,30286260,2006,2015,PIF0615,BBS7017
+Least Sandpiper,Calidris minutilla,502,Wetland,Widespread,Scolopacidae,shorebird,M,other,native,700000,466667,1050000,2011,2013,Shoreb12,Mig7416
+Least Tern,Sternula antillarum,604,Coasts,Coastal,Laridae,waterbird,M,other,native,51692,21444,97858,2006,2015,PIF0615,BBS7017
+LeConte's Sparrow,Ammospiza leconteii,1846,Grassland,Temperate North America,Passerellidae,landbird,M,other,native,5128134,4121245,6262076,2006,2015,PIF0615,BBS7017
+LeConte's Thrasher,Toxostoma lecontei,1628,Aridlands,Southwestern Aridlands,Mimidae,landbird,R,other,native,45644,15853,93422,2006,2015,PIF0615,BBS7017
+Lesser Goldfinch,Spinus psaltria,1769,Western Forest,Temperate North America,Fringillidae,landbird,M,other,native,5723877,4542330,7132984,2006,2015,PIF0615,BBS7017
+Lesser Nighthawk,Chordeiles acutipennis,226,Aridlands,Widespread Neotropical,Caprimulgidae,landbird,M,AI,native,3801395,2399615,5545863,2006,2015,PIF0615,BBS7017
+Lesser Scaup,Aythya affinis,60,Wetland,Widespread,Anatidae,waterfowl,M,other,native,2626619,1903177,3511659,2006,2015,PIF0615,BBS7017
+Lesser Yellowlegs,Tringa flavipes,524,Wetland,Widespread,Scolopacidae,shorebird,M,other,native,660000,264000,1650000,2011,2013,Shoreb12,Mig7416
+Lewis's Woodpecker,Melanerpes lewis,935,Western Forest,Temperate North America,Picidae,landbird,M,other,native,81507,52913,119611,2006,2015,PIF0615,BBS7017
+Limpkin,Aramus guarauna,437,Wetland,Widespread Neotropical,Aramidae,waterbird,R,other,native,9000,6000,12000,1993,1995,BNA2002,CBC7017
+Lincoln's Sparrow,Melospiza lincolnii,1853,Boreal Forest,Temperate North America,Passerellidae,landbird,M,other,native,88078735,78262006,98782691,2006,2015,PIF0615,BBS7017
+Little Blue Heron,Egretta caerulea,745,Wetland,Widespread,Ardeidae,waterbird,M,other,native,270582,191382,368199,2006,2015,PIF0615,BBS7017
+Loggerhead Shrike,Lanius ludovicianus,1325,Grassland,Temperate North America,Laniidae,landbird,M,other,native,4557457,4080246,5094115,2006,2015,PIF0615,BBS7017
+Long-billed Curlew,Numenius americanus,474,Grassland,Widespread,Scolopacidae,shorebird,M,other,native,140000,98000,198000,2011,2013,Shoreb12,BBS7017
+Long-billed Dowitcher,Limnodromus scolopaceus,509,Arctic Tundra,Widespread,Scolopacidae,shorebird,M,other,native,500000,333333,750000,2011,2013,Shoreb12,Mig7416
+Long-billed Thrasher,Toxostoma longirostre,1623,Aridlands,Mexico-Central America,Mimidae,landbird,R,other,native,95573,53639,153900,2006,2015,PIF0615,BBS7017
+Long-eared Owl,Asio otus,863,Forest Generalist,Temperate North America,Strigidae,landbird,M,other,native,37707,15671,68758,2006,2015,PIF0615,CBC7017
+Long-tailed Duck,Clangula hyemalis,71,Arctic Tundra,Marine,Anatidae,waterfowl,M,other,native,1000000,500000,1500000,2004,2006,SeDu07,CBC7017
+Louisiana Waterthrush,Parkesia motacilla,1949,Eastern Forest,Widespread Neotropical,Parulidae,landbird,M,other,native,446545,377921,529134,2006,2015,PIF0615,BBS7017
+Lucy's Warbler,Oreothlypis luciae,1962,Aridlands,Mexico-Central America,Parulidae,landbird,M,other,native,2829708,1620023,4473592,2006,2015,PIF0615,BBS7017
+MacGillivray's Warbler,Geothlypis tolmiei,1968,Western Forest,Mexico-Central America,Parulidae,landbird,M,other,native,11191876,9091713,13546236,2006,2015,PIF0615,BBS7017
+Magnolia Warbler,Setophaga magnolia,1989,Boreal Forest,Mexico-Central America,Parulidae,landbird,M,other,native,38757259,33706369,44351863,2006,2015,PIF0615,BBS7017
+Mallard,Anas platyrhynchos,48,Wetland,Widespread,Anatidae,waterfowl,M,other,native,11477600,10557400,12397900,2013,2017,FWS1317,FWS7017
+Marbled Godwit,Limosa fedoa,481,Wetland,Coastal,Scolopacidae,shorebird,M,other,native,174000,116000,261000,2011,2013,Shoreb12,BBS7017
+Marbled Murrelet,Brachyramphus marmoratus,550,Coasts,Marine,Alcidae,waterbird,M,other,native,545550,256600,834500,1994,1996,BNA1997,CBC7017
+Marsh Wren,Cistothorus palustris,1470,Wetland,Temperate North America,Troglodytidae,landbird,M,other,native,10846904,8009975,14414465,2006,2015,PIF0615,BBS7017
+McCown's Longspur,Rhynchophanes mccownii,1776,Grassland,Southwestern Aridlands,Calcariidae,landbird,M,other,native,844821,487327,1322335,2006,2015,PIF0615,BBS7017
+Merlin,Falco columbarius,1000,Habitat Generalist,Widespread,Falconidae,landbird,M,other,native,1620998,1325156,1975531,2006,2015,PIF0615,BBS7017
+Mew Gull,Larus canus,581,Wetland,Temperate North America,Laridae,waterbird,M,other,native,1286450,659195,2419626,2006,2015,PIF0615,BBS9317
+Mexican Jay,Aphelocoma wollweberi,1388,Western Forest,Mexico-Central America,Corvidae,landbird,R,other,native,142059,31219,355566,2006,2015,PIF0615,BBS9317
+Mississippi Kite,Ictinia mississippiensis,798,Eastern Forest,South America,Accipitridae,landbird,M,other,native,695177,537854,881937,2006,2015,PIF0615,BBS7017
+Monk Parakeet,Myiopsitta monachus,1010,Introduced,Introduced,Psittacidae,other,Introduced,other,Introduced,59268,1094,158202,2006,2015,PIF0615,CBC7017
+Mottled Duck,Anas fulvigula,50,Wetland,Temperate North America,Anatidae,waterfowl,M,other,native,238785,148277,355630,2006,2015,PIF0615,BBS7017
+Mountain Bluebird,Sialia currucoides,1559,Western Forest,Temperate North America,Turdidae,landbird,M,other,native,5568751,4615920,6673385,2006,2015,PIF0615,BBS7017
+Mountain Chickadee,Poecile gambeli,1437,Western Forest,Temperate North America,Paridae,landbird,R,other,native,7855197,6597745,9279875,2006,2015,PIF0615,BBS7017
+Mountain Plover,Charadrius montanus,465,Grassland,Southwestern Aridlands,Charadriidae,shorebird,M,other,native,20000,13333,30000,2011,2013,Shoreb12,BBS7017
+Mountain Quail,Oreortyx pictus,94,Western Forest,Temperate North America,Odontophoridae,landbird,R,other,native,250825,174335,348548,2006,2015,PIF0615,BBS7017
+Mourning Dove,Zenaida macroura,198,Habitat Generalist,Widespread,Columbidae,landbird,M,other,native,133072464,123233806,143006188,2006,2015,PIF0615,BBS7017
+Mourning Warbler,Geothlypis philadelphia,1969,Boreal Forest,South America,Parulidae,landbird,M,other,native,13827473,11375932,16818340,2006,2015,PIF0615,BBS7017
+Mute Swan,Cygnus olor,25,Introduced,Introduced,Anatidae,other,Introduced,other,Introduced,12000,9000,15000,1992,1994,BNA1997,BBS7017
+Nashville Warbler,Oreothlypis ruficapilla,1963,Boreal Forest,Mexico-Central America,Parulidae,landbird,M,other,native,39717135,34046329,46021851,2006,2015,PIF0615,BBS7017
+Nelson's Sparrow,Ammospiza nelsoni,1848,Wetland,Coastal,Passerellidae,landbird,M,other,native,1012433,860211,1182894,2006,2015,PIF0615,BBS7017
+Northern Bobwhite,Colinus virginianus,99,Eastern Forest,Temperate North America,Odontophoridae,landbird,R,other,native,5800000,2900000,8700000,2008,2010,ACAD,BBS7017
+Northern Cardinal,Cardinalis cardinalis,2047,Eastern Forest,Temperate North America,Cardinalidae,landbird,R,other,native,118228958,107977674,129207132,2006,2015,PIF0615,BBS7017
+Northern Flicker,Colaptes auratus,977,Forest Generalist,Widespread,Picidae,landbird,M,other,native,10997056,10030079,12029437,2006,2015,PIF0615,BBS7017
+Northern Fulmar,Fulmarus glacialis,660,Coasts,Marine,Procellariidae,waterbird,M,other,native,2200000,1650000,2750000,2009,2011,BNA2012,CBC7017
+Northern Gannet,Morus bassanus,716,Coasts,Marine,Sulidae,waterbird,M,other,native,144596,130136,159056,1998,2000,BNA2002,CBC7017
+Northern Goshawk,Accipiter gentilis,793,Forest Generalist,Temperate North America,Accipitridae,landbird,M,other,native,205103,144935,279609,2006,2015,PIF0615,BBS7017
+Northern Harrier,Circus hudsonius,783,Habitat Generalist,Temperate North America,Accipitridae,landbird,M,other,native,822326,731377,921329,2006,2015,PIF0615,BBS7017
+Northern Mockingbird,Mimus polyglottos,1634,Habitat Generalist,Temperate North America,Mimidae,landbird,M,other,native,33748673,30589410,37047818,2006,2015,PIF0615,BBS7017
+Northern Parula,Setophaga americana,1987,Forest Generalist,Caribbean,Parulidae,landbird,M,other,native,18173930,16508547,19946040,2006,2015,PIF0615,BBS7017
+Northern Pintail,Anas acuta,52,Wetland,Temperate North America,Anatidae,waterfowl,M,other,native,3021200,2644500,3397900,2013,2017,FWS1317,FWS7017
+Northern Pygmy-Owl,Glaucidium gnoma,848,Western Forest,Temperate North America,Strigidae,landbird,R,other,native,129397,77555,214434,2006,2015,PIF0615,BBS7017
+Northern Rough-winged Swallow,Stelgidopteryx serripennis,1428,Habitat Generalist,Widespread,Hirundinidae,landbird,M,AI,native,19956056,15363114,26977637,2006,2015,PIF0615,BBS7017
+Northern Saw-whet Owl,Aegolius acadicus,869,Forest Generalist,Temperate North America,Strigidae,landbird,M,other,native,2000000,500000,3500000,2007,2009,ACAD,CBC7017
+Northern Shoveler,Spatula clypeata,40,Wetland,Temperate North America,Anatidae,waterfowl,M,other,native,4548300,4125700,4970800,2013,2017,FWS1317,FWS7017
+Northern Shrike,Lanius borealis,1326,Arctic Tundra,Temperate North America,Laniidae,landbird,M,other,native,400000,100000,700000,2003,2005,ACAD,CBC7017
+Northern Waterthrush,Parkesia noveboracensis,1950,Boreal Forest,Widespread Neotropical,Parulidae,landbird,M,other,native,17166584,14259921,20524318,2006,2015,PIF0615,BBS7017
+Northwestern Crow,Corvus caurinus,1396,Western Forest,Temperate North America,Corvidae,landbird,R,other,native,701805,421865,1111796,2006,2015,PIF0615,BBS7017
+Nuttall's Woodpecker,Dryobates nuttallii,962,Western Forest,Temperate North America,Picidae,landbird,R,other,native,752044,500760,1076906,2006,2015,PIF0615,BBS7017
+Oak Titmouse,Baeolophus inornatus,1443,Western Forest,Temperate North America,Paridae,landbird,R,other,native,706717,407725,1196605,2006,2015,PIF0615,BBS7017
+Olive-sided Flycatcher,Contopus cooperi,1291,Forest Generalist,South America,Tyrannidae,landbird,M,AI,native,1916763,1576589,2322865,2006,2015,PIF0615,BBS7017
+Olive Sparrow,Arremonops rufivirgatus,1798,Aridlands,Mexico-Central America,Passerellidae,landbird,R,other,native,829024,486176,1252969,2006,2015,PIF0615,BBS7017
+Orange-crowned Warbler,Oreothlypis celata,1960,Forest Generalist,Temperate North America,Parulidae,landbird,M,other,native,81919229,69421324,95720231,2006,2015,PIF0615,BBS7017
+Orchard Oriole,Icterus spurius,1909,Eastern Forest,Mexico-Central America,Icteridae,landbird,M,other,native,10894813,9896563,11930180,2006,2015,PIF0615,BBS7017
+Osprey,Pandion haliaetus,770,Wetland,Widespread,Pandionidae,landbird,M,other,native,399228,328092,483403,2006,2015,PIF0615,BBS7017
+Ovenbird,Seiurus aurocapilla,1947,Eastern Forest,Widespread Neotropical,Parulidae,landbird,M,other,native,26312390,22777813,30231156,2006,2015,PIF0615,BBS7017
+Pacific-slope Flycatcher,Empidonax difficilis,1312,Western Forest,Mexico-Central America,Tyrannidae,landbird,M,other,native,8585203,6751118,10839307,2006,2015,PIF0615,BBS7017
+Pacific Golden-Plover,Pluvialis fulva,453,Arctic Tundra,Coastal,Charadriidae,shorebird,M,other,native,42500,35000,50000,2011,2013,Shoreb12,BBS9317
+Pacific Wren,Troglodytes pacificus,1466,Western Forest,Temperate North America,Troglodytidae,landbird,M,other,native,7528567,5392359,10095516,2006,2015,PIF0615,BBS7017
+Painted Bunting,Passerina ciris,2064,Eastern Forest,Mexico-Central America,Cardinalidae,landbird,M,other,native,12778114,10848520,14991104,2006,2015,PIF0615,BBS7017
+Palm Warbler,Setophaga palmarum,1996,Boreal Forest,Caribbean,Parulidae,landbird,M,other,native,13172938,9852145,17350184,2006,2015,PIF0615,BBS7017
+Pectoral Sandpiper,Calidris melanotos,505,Arctic Tundra,South America,Scolopacidae,shorebird,M,other,native,1600000,1129600,2070400,2011,2013,Shoreb12,Mig7416
+Pelagic Cormorant,Phalacrocorax pelagicus,722,Coasts,Coastal,Phalacrocoracidae,waterbird,M,other,native,135000,67500,202500,1989,1991,BNA2013,BBS7017
+Peregrine Falcon,Falco peregrinus,1006,Habitat Generalist,Widespread,Falconidae,landbird,M,other,native,40000,20000,60000,2001,2003,ACAD,BBS7017
+Phainopepla,Phainopepla nitens,1647,Aridlands,Southwestern Aridlands,Ptiliogonatidae,landbird,M,other,native,1285683,905747,1775051,2006,2015,PIF0615,BBS7017
+Philadelphia Vireo,Vireo philadelphicus,1357,Boreal Forest,Mexico-Central America,Vireonidae,landbird,M,other,native,3968582,3039944,5019728,2006,2015,PIF0615,BBS7017
+Pied-billed Grebe,Podilymbus podiceps,141,Wetland,Widespread,Podicipedidae,waterbird,M,other,native,1138963,905996,1412585,2006,2015,PIF0615,BBS7017
+Pigeon Guillemot,Cepphus columba,548,Coasts,Marine,Alcidae,waterbird,R,other,native,235100,117550,352650,1992,1994,BNA1993,CBC7017
+Pileated Woodpecker,Dryocopus pileatus,983,Eastern Forest,Temperate North America,Picidae,landbird,R,other,native,2648713,2398947,2931122,2006,2015,PIF0615,BBS7017
+Pine Grosbeak,Pinicola enucleator,1743,Boreal Forest,Temperate North America,Fringillidae,landbird,M,other,native,5530332,4039601,7262401,2006,2015,PIF0615,BBS7017
+Pine Siskin,Spinus pinus,1763,Forest Generalist,Temperate North America,Fringillidae,landbird,M,other,native,44719558,37972998,52314211,2006,2015,PIF0615,BBS7017
+Pine Warbler,Setophaga pinus,1998,Eastern Forest,Temperate North America,Parulidae,landbird,M,other,native,13108682,11923661,14327429,2006,2015,PIF0615,BBS7017
+Pinyon Jay,Gymnorhinus cyanocephalus,1380,Western Forest,Temperate North America,Corvidae,landbird,R,other,native,755415,525819,1068774,2006,2015,PIF0615,BBS7017
+Plumbeous Vireo,Vireo plumbeus,1356,Western Forest,Mexico-Central America,Vireonidae,landbird,M,other,native,2999048,2194985,3986302,2006,2015,PIF0615,BBS7017
+Prairie Falcon,Falco mexicanus,1007,Aridlands,Southwestern Aridlands,Falconidae,landbird,M,other,native,97855,76690,121492,2006,2015,PIF0615,BBS7017
+Prairie Warbler,Setophaga discolor,2003,Eastern Forest,Caribbean,Parulidae,landbird,M,other,native,3555356,3156416,4009433,2006,2015,PIF0615,BBS7017
+Prothonotary Warbler,Protonotaria citrea,1955,Eastern Forest,Mexico-Central America,Parulidae,landbird,M,other,native,2069931,1633108,2645686,2006,2015,PIF0615,BBS7017
+Purple Finch,Haemorhous purpureus,1750,Forest Generalist,Temperate North America,Fringillidae,landbird,M,other,native,6539107,5746681,7363210,2006,2015,PIF0615,BBS7017
+Purple Gallinule,Porphyrio martinicus,428,Wetland,Widespread Neotropical,Rallidae,waterbird,M,other,native,19522,9167,33564,2006,2015,PIF0615,BBS7017
+Purple Martin,Progne subis,1413,Habitat Generalist,South America,Hirundinidae,landbird,M,AI,native,8728591,7776376,9841533,2006,2015,PIF0615,BBS7017
+Purple Sandpiper,Calidris maritima,499,Arctic Tundra,Coastal,Scolopacidae,shorebird,M,other,native,25000,16667,37500,2011,2013,Shoreb12,CBC7017
+Pygmy Nuthatch,Sitta pygmaea,1451,Western Forest,Temperate North America,Sittidae,landbird,R,other,native,3103791,2051268,4410534,2006,2015,PIF0615,BBS7017
+Pyrrhuloxia,Cardinalis sinuatus,2048,Aridlands,Southwestern Aridlands,Cardinalidae,landbird,R,other,native,1578426,1076870,2208564,2006,2015,PIF0615,BBS7017
+Razorbill,Alca torda,545,Coasts,Marine,Alcidae,waterbird,M,other,native,76000,38000,114000,2000,2002,BNA2009,CBC7017
+Red-bellied Woodpecker,Melanerpes carolinus,951,Eastern Forest,Temperate North America,Picidae,landbird,R,other,native,15518241,14095781,16973039,2006,2015,PIF0615,BBS7017
+Red-breasted Merganser,Mergus serrator,78,Arctic Tundra,Marine,Anatidae,waterfowl,M,other,native,350000,175000,525000,2004,2006,SeDu07,BBS7017
+Red-breasted Nuthatch,Sitta canadensis,1449,Forest Generalist,Temperate North America,Sittidae,landbird,M,other,native,19689413,17772520,21658078,2006,2015,PIF0615,BBS7017
+Red-breasted Sapsucker,Sphyrapicus ruber,956,Western Forest,Temperate North America,Picidae,landbird,M,other,native,2755899,1872219,3799342,2006,2015,PIF0615,BBS7017
+Red-cockaded Woodpecker,Dryobates borealis,964,Eastern Forest,Temperate North America,Picidae,landbird,R,other,native,15000,11250,18750,2005,2007,ACAD,BBS7017
+Red-eyed Vireo,Vireo olivaceus,1360,Forest Generalist,South America,Vireonidae,landbird,M,other,native,130756817,121405110,141235333,2006,2015,PIF0615,BBS7017
+Red-faced Cormorant,Phalacrocorax urile,721,Coasts,Coastal,Phalacrocoracidae,waterbird,R,other,native,84500,42250,126750,1992,1994,BNA2002,CBC7017
+Red-faced Warbler,Cardellina rubrifrons,2024,Western Forest,Mexico-Central America,Parulidae,landbird,M,other,native,252600,70739,503841,2006,2015,PIF0615,BBS9317
+Red-headed Woodpecker,Melanerpes erythrocephalus,938,Eastern Forest,Temperate North America,Picidae,landbird,M,other,native,1802639,1587954,2066531,2006,2015,PIF0615,BBS7017
+Red-naped Sapsucker,Sphyrapicus nuchalis,955,Western Forest,Temperate North America,Picidae,landbird,M,other,native,1974818,1596661,2425112,2006,2015,PIF0615,BBS7017
+Red-necked Grebe,Podiceps grisegena,144,Wetland,Marine,Podicipedidae,waterbird,M,other,native,737518,482463,1054730,2006,2015,PIF0615,BBS7017
+Red-shouldered Hawk,Buteo lineatus,818,Forest Generalist,Temperate North America,Accipitridae,landbird,M,other,native,1827010,1607481,2085341,2006,2015,PIF0615,BBS7017
+Red-tailed Hawk,Buteo jamaicensis,825,Habitat Generalist,Widespread,Accipitridae,landbird,M,other,native,2808115,2579824,3052334,2006,2015,PIF0615,BBS7017
+Red-throated Loon,Gavia stellata,626,Arctic Tundra,Marine,Gaviidae,waterbird,M,other,native,358396,96811,792502,2006,2015,PIF0615,BBS9317
+Red-winged Blackbird,Agelaius phoeniceus,1926,Habitat Generalist,Temperate North America,Icteridae,landbird,M,other,native,172973570,154908749,196698929,2006,2015,PIF0615,BBS7017
+Red Crossbill,Loxia curvirostra,1757,Forest Generalist,Temperate North America,Fringillidae,landbird,M,other,native,9585953,7856459,11542746,2006,2015,PIF0615,BBS7017
+Red Knot,Calidris canutus,485,Arctic Tundra,Coastal,Scolopacidae,shorebird,M,other,native,139000,107715,196500,2011,2013,Shoreb12,Mig7416
+Reddish Egret,Egretta rufescens,747,Coasts,Coastal,Ardeidae,waterbird,M,other,native,4000,3600,4400,1995,1997,BNA2002,CBC7017
+Redhead,Aythya americana,55,Wetland,Temperate North America,Anatidae,waterfowl,M,other,native,1216200,1022900,1409500,2013,2017,FWS1317,FWS7017
+Rhinoceros Auklet,Cerorhinca monocerata,561,Coasts,Marine,Alcidae,waterbird,M,other,native,900000,450000,1350000,1997,1999,BNA1993,CBC7017
+Ring-billed Gull,Larus delawarensis,582,Wetland,Temperate North America,Laridae,waterbird,M,other,native,3740458,2828976,4916343,2006,2015,PIF0615,BBS7017
+Ring-necked Duck,Aythya collaris,57,Wetland,Temperate North America,Anatidae,waterfowl,M,other,native,527400,370400,684300,2013,2017,FWS1317,BBS7017
+Ring-necked Pheasant,Phasianus colchicus,123,Introduced,Introduced,Phasianidae,other,Introduced,other,Introduced,16642331,14252196,19372599,2006,2015,PIF0615,BBS7017
+Rock Pigeon,Columba livia,149,Introduced,Introduced,Columbidae,other,Introduced,other,Introduced,16195053,14584425,17988593,2006,2015,PIF0615,BBS7017
+Rock Sandpiper,Calidris ptilocnemis,498,Arctic Tundra,Coastal,Scolopacidae,shorebird,M,other,native,144800,67900,334400,2011,2013,Shoreb12,CBC7017
+Rock Wren,Salpinctes obsoletus,1454,Aridlands,Southwestern Aridlands,Troglodytidae,landbird,M,other,native,3362014,2744880,4115789,2006,2015,PIF0615,BBS7017
+Rose-breasted Grosbeak,Pheucticus ludovicianus,2051,Eastern Forest,Widespread Neotropical,Cardinalidae,landbird,M,other,native,4715733,4058034,5474743,2006,2015,PIF0615,BBS7017
+Roseate Spoonbill,Platalea ajaja,764,Wetland,Widespread Neotropical,Threskiornithidae,waterbird,M,other,native,11000,8250,13750,1997,1999,BNA2000,BBS7017
+Ross's Goose,Anser rossii,13,Arctic Tundra,Temperate North America,Anatidae,waterfowl,M,other,native,2122006,1909805,2334207,2013,2015,CAFF18,CAFF
+Rough-legged Hawk,Buteo lagopus,826,Arctic Tundra,Temperate North America,Accipitridae,landbird,M,other,native,296141,248433,370060,2006,2015,PIF0615,CBC7017
+Royal Tern,Thalasseus maximus,617,Coasts,Coastal,Laridae,waterbird,M,other,native,35206,10179,70873,2006,2015,PIF0615,BBS7017
+Ruby-crowned Kinglet,Regulus calendula,1518,Boreal Forest,Temperate North America,Regulidae,landbird,M,other,native,99900936,90024695,110791661,2006,2015,PIF0615,BBS7017
+Ruby-throated Hummingbird,Archilochus colubris,332,Eastern Forest,Mexico-Central America,Trochilidae,landbird,M,other,native,35777111,31236693,40921667,2006,2015,PIF0615,BBS7017
+Ruddy Duck,Oxyura jamaicensis,80,Wetland,Widespread,Anatidae,waterfowl,M,other,native,1334697,970409,1802652,2006,2015,PIF0615,BBS7017
+Ruddy Turnstone,Arenaria interpres,482,Arctic Tundra,Coastal,Scolopacidae,shorebird,M,other,native,245000,163333,367500,2011,2013,Shoreb12,Mig7416
+Ruffed Grouse,Bonasa umbellus,125,Forest Generalist,Temperate North America,Phasianidae,landbird,R,other,native,16500000,8250000,24750000,2004,2006,ACAD,BBS7017
+Rufous-crowned Sparrow,Aimophila ruficeps,1808,Aridlands,Southwestern Aridlands,Passerellidae,landbird,R,other,native,601135,407380,851057,2006,2015,PIF0615,BBS7017
+Rufous Hummingbird,Selasphorus rufus,341,Western Forest,Mexico-Central America,Trochilidae,landbird,M,other,native,21694644,13724171,32781297,2006,2015,PIF0615,BBS7017
+Rusty Blackbird,Euphagus carolinus,1937,Boreal Forest,Temperate North America,Icteridae,landbird,M,other,native,6804603,4919111,9459126,2006,2015,PIF0615,BBS7017
+Sage Thrasher,Oreoscoptes montanus,1630,Aridlands,Southwestern Aridlands,Mimidae,landbird,M,other,native,6362519,4673219,8479429,2006,2015,PIF0615,BBS7017
+Sagebrush Sparrow,Artemisiospiza nevadensis,1839,Aridlands,Southwestern Aridlands,Passerellidae,landbird,M,other,native,5386123,3477545,8199885,2006,2015,PIF0615,BBS7017
+Sanderling,Calidris alba,496,Arctic Tundra,Coastal,Scolopacidae,shorebird,M,other,native,300000,120000,750000,2011,2013,Shoreb12,Mig7416
+Sandhill Crane,Antigone canadensis,438,Wetland,Widespread,Gruidae,waterbird,M,other,native,500000,450000,550000,2009,2011,BNA2014,BBS7017
+Sandwich Tern,Thalasseus sandvicensis,619,Coasts,Coastal,Laridae,waterbird,M,other,native,93890,70418,117363,1984,1986,BNA2016,CBC7017
+Savannah Sparrow,Passerculus sandwichensis,1842,Grassland,Temperate North America,Passerellidae,landbird,M,other,native,168676799,144322771,195333538,2006,2015,PIF0615,BBS7017
+Say's Phoebe,Sayornis saya,1319,Habitat Generalist,Southwestern Aridlands,Tyrannidae,landbird,M,other,native,5044646,4348767,5764857,2006,2015,PIF0615,BBS7017
+Scaled Quail,Callipepla squamata,102,Aridlands,Southwestern Aridlands,Odontophoridae,landbird,R,other,native,2393345,1766520,3168001,2006,2015,PIF0615,BBS7017
+Scarlet Tanager,Piranga olivacea,2034,Eastern Forest,South America,Cardinalidae,landbird,M,other,native,2574915,2256623,2956329,2006,2015,PIF0615,BBS7017
+Scissor-tailed Flycatcher,Tyrannus forficatus,1282,Grassland,Mexico-Central America,Tyrannidae,landbird,M,AI,native,7914013,6502356,9635329,2006,2015,PIF0615,BBS7017
+Scott's Oriole,Icterus parisorum,1924,Western Forest,Mexico-Central America,Icteridae,landbird,M,other,native,1721724,1332821,2134384,2006,2015,PIF0615,BBS7017
+Seaside Sparrow,Ammospiza maritima,1847,Coasts,Coastal,Passerellidae,landbird,M,other,native,196782,32213,523319,2006,2015,PIF0615,BBS7017
+Sedge Wren,Cistothorus platensis,1469,Grassland,Temperate North America,Troglodytidae,landbird,M,other,native,5017990,4252225,5954334,2006,2015,PIF0615,BBS7017
+Semipalmated Plover,Charadrius semipalmatus,460,Arctic Tundra,Coastal,Charadriidae,shorebird,M,other,native,200000,80000,500000,2011,2013,Shoreb12,Mig7416
+Semipalmated Sandpiper,Calidris pusilla,506,Arctic Tundra,Coastal,Scolopacidae,shorebird,M,other,native,2260000,1728400,2791600,2011,2013,Shoreb12,Mig7416
+Sharp-shinned Hawk,Accipiter striatus,789,Forest Generalist,Widespread,Accipitridae,landbird,M,other,native,405947,303414,524274,2006,2015,PIF0615,BBS7017
+Sharp-tailed Grouse,Tympanuchus phasianellus,134,Grassland,Temperate North America,Phasianidae,landbird,R,other,native,761942,569936,975726,2006,2015,PIF0615,BBS7017
+Short-billed Dowitcher,Limnodromus griseus,508,Wetland,Coastal,Scolopacidae,shorebird,M,other,native,153000,61200,382500,2011,2013,Shoreb12,Mig7416
+Short-eared Owl,Asio flammeus,865,Habitat Generalist,Temperate North America,Strigidae,landbird,M,other,native,602353,485388,747895,2006,2015,PIF0615,BBS7017
+Smith's Longspur,Calcarius pictus,1775,Arctic Tundra,Temperate North America,Calcariidae,landbird,M,other,native,75000,18750,131250,1992,1994,ACAD,CBC7017
+Snow Bunting,Plectrophenax nivalis,1777,Arctic Tundra,Temperate North America,Calcariidae,landbird,M,other,native,14267309,14267309,14267309,2006,2015,PIF0615,CBC7017
+Snow Goose,Anser caerulescens,12,Arctic Tundra,Temperate North America,Anatidae,waterfowl,M,other,native,15305450,13774905,16835995,2013,2015,CAFF18,CAFF
+Snowy Egret,Egretta thula,744,Wetland,Widespread,Ardeidae,waterbird,M,other,native,215935,152524,300633,2006,2015,PIF0615,BBS7017
+Snowy Owl,Bubo scandiacus,846,Arctic Tundra,Temperate North America,Strigidae,landbird,M,other,native,14000,7000,21000,2011,2013,ACAD,CBC7017
+Snowy Plover,Charadrius nivosus,457,Coasts,Coastal,Charadriidae,shorebird,M,other,native,31350,23840,41225,2011,2013,Shoreb12,CBC7017
+Solitary Sandpiper,Tringa solitaria,521,Wetland,South America,Scolopacidae,shorebird,M,other,native,189000,75600,472500,2011,2013,Shoreb12,BBS7017
+Song Sparrow,Melospiza melodia,1852,Habitat Generalist,Temperate North America,Passerellidae,landbird,M,other,native,126053605,118934257,133938545,2006,2015,PIF0615,BBS7017
+Sooty Grouse,Dendragapus fuliginosus,133,Western Forest,Temperate North America,Phasianidae,landbird,R,other,native,2000000,1000000,3000000,2008,2010,ACAD,BBS7017
+Sora,Porzana carolina,419,Wetland,Temperate North America,Rallidae,waterbird,M,other,native,4428137,3481892,5601019,2006,2015,PIF0615,BBS7017
+Spotted Sandpiper,Actitis macularius,519,Wetland,Widespread,Scolopacidae,shorebird,M,other,native,660000,264000,1650000,2011,2013,Shoreb12,BBS7017
+Spotted Towhee,Pipilo maculatus,1805,Western Forest,Temperate North America,Passerellidae,landbird,M,other,native,35271543,31027431,39773372,2006,2015,PIF0615,BBS7017
+Sprague's Pipit,Anthus spragueii,1680,Grassland,Southwestern Aridlands,Motacillidae,landbird,M,other,native,1394136,936560,2009643,2006,2015,PIF0615,BBS7017
+Spruce Grouse,Falcipennis canadensis,128,Boreal Forest,Temperate North America,Phasianidae,landbird,R,other,native,11000000,5500000,16500000,2007,2009,ACAD,CBC7017
+Steller's Eider,Polysticta stelleri,61,Arctic Tundra,Marine,Anatidae,waterfowl,M,other,native,181000,135750,226250,2004,2006,SeDu07,CBC7017
+Steller's Jay,Cyanocitta stelleri,1381,Western Forest,Temperate North America,Corvidae,landbird,R,other,native,2705843,2239068,3237856,2006,2015,PIF0615,BBS7017
+Stilt Sandpiper,Calidris himantopus,490,Arctic Tundra,Widespread,Scolopacidae,shorebird,M,other,native,1243700,418800,2068600,2011,2013,Shoreb12,Mig7416
+Summer Tanager,Piranga rubra,2033,Eastern Forest,Widespread Neotropical,Cardinalidae,landbird,M,other,native,11302422,10343397,12384415,2006,2015,PIF0615,BBS7017
+Surf Scoter,Melanitta perspicillata,67,Wetland,Marine,Anatidae,waterfowl,M,other,native,600000,450000,750000,2004,2006,SeDu07,CBC7017
+Surfbird,Calidris virgata,486,Arctic Tundra,Coastal,Scolopacidae,shorebird,M,other,native,70000,46667,105000,2011,2013,Shoreb12,CBC7017
+Swainson's Hawk,Buteo swainsoni,823,Grassland,South America,Accipitridae,landbird,M,other,native,822598,714482,956228,2006,2015,PIF0615,BBS7017
+Swainson's Thrush,Catharus ustulatus,1583,Forest Generalist,South America,Turdidae,landbird,M,other,native,121704609,102456492,144203885,2006,2015,PIF0615,BBS7017
+Swainson's Warbler,Limnothlypis swainsonii,1956,Eastern Forest,Caribbean,Parulidae,landbird,M,other,native,156081,99540,235309,2006,2015,PIF0615,BBS7017
+Swallow-tailed Kite,Elanoides forficatus,775,Eastern Forest,Widespread Neotropical,Accipitridae,landbird,M,other,native,7500,3750,11250,2015,2017,ACAD,BBS7017
+Swamp Sparrow,Melospiza georgiana,1854,Wetland,Temperate North America,Passerellidae,landbird,M,other,native,23261464,20193095,26315495,2006,2015,PIF0615,BBS7017
+Tennessee Warbler,Oreothlypis peregrina,1959,Boreal Forest,Widespread Neotropical,Parulidae,landbird,M,other,native,111454361,80906890,149074619,2006,2015,PIF0615,BBS7017
+Thick-billed Murre,Uria lomvia,544,Coasts,Marine,Alcidae,waterbird,M,other,native,8000000,4000000,12000000,1997,1999,BNA2000,CBC7017
+Townsend's Solitaire,Myadestes townsendi,1560,Western Forest,Temperate North America,Turdidae,landbird,M,other,native,1050595,834475,1298011,2006,2015,PIF0615,BBS7017
+Townsend's Warbler,Setophaga townsendi,2009,Western Forest,Mexico-Central America,Parulidae,landbird,M,other,native,21262275,16792636,26233697,2006,2015,PIF0615,BBS7017
+Tree Swallow,Tachycineta bicolor,1420,Habitat Generalist,Widespread,Hirundinidae,landbird,M,AI,native,18581775,16732180,20563777,2006,2015,PIF0615,BBS7017
+Tricolored Blackbird,Agelaius tricolor,1928,Wetland,Temperate North America,Icteridae,landbird,M,other,native,394858,296144,493573,2007,2009,ACAD,BBS7017
+Tricolored Heron,Egretta tricolor,746,Wetland,Widespread,Ardeidae,waterbird,M,other,native,57579,34376,88724,2006,2015,PIF0615,BBS7017
+Trumpeter Swan,Cygnus buccinator,26,Wetland,Temperate North America,Anatidae,waterfowl,M,other,native,63016,56714,69318,2014,2016,NATSS15,NATS6815
+Tufted Titmouse,Baeolophus bicolor,1445,Eastern Forest,Temperate North America,Paridae,landbird,R,other,native,11970837,10921948,13128862,2006,2015,PIF0615,BBS7017
+Tundra Swan,Cygnus columbianus,27,Arctic Tundra,Temperate North America,Anatidae,waterfowl,M,other,native,183000,129200,236900,2013,2017,FWS1317,CBC7017
+Turkey Vulture,Cathartes aura,766,Habitat Generalist,Widespread,Cathartidae,landbird,M,other,native,8418387,7705474,9163886,2006,2015,PIF0615,BBS7017
+Upland Sandpiper,Bartramia longicauda,469,Grassland,South America,Scolopacidae,shorebird,M,other,native,750000,500000,1125000,2011,2013,Shoreb12,BBS7017
+Varied Bunting,Passerina versicolor,2063,Aridlands,Mexico-Central America,Cardinalidae,landbird,M,other,native,69313,27061,135722,2006,2015,PIF0615,BBS9317
+Varied Thrush,Ixoreus naevius,1609,Western Forest,Temperate North America,Turdidae,landbird,M,other,native,34514221,26180031,44500981,2006,2015,PIF0615,BBS7017
+Vaux's Swift,Chaetura vauxi,261,Western Forest,Mexico-Central America,Apodidae,landbird,M,AI,native,418576,284294,607235,2006,2015,PIF0615,BBS7017
+Veery,Catharus fuscescens,1580,Forest Generalist,South America,Turdidae,landbird,M,other,native,11186101,9451271,13166545,2006,2015,PIF0615,BBS7017
+Verdin,Auriparus flaviceps,1447,Aridlands,Southwestern Aridlands,Remizidae,landbird,R,other,native,3810209,2615935,5392903,2006,2015,PIF0615,BBS7017
+Vermilion Flycatcher,Pyrocephalus rubinus,1320,Aridlands,Mexico-Central America,Tyrannidae,landbird,M,other,native,538032,324197,798482,2006,2015,PIF0615,BBS7017
+Vesper Sparrow,Pooecetes gramineus,1835,Grassland,Southwestern Aridlands,Passerellidae,landbird,M,other,native,35053955,30378748,40800937,2006,2015,PIF0615,BBS7017
+Violet-green Swallow,Tachycineta thalassina,1423,Western Forest,Mexico-Central America,Hirundinidae,landbird,M,AI,native,6724535,5560970,8017545,2006,2015,PIF0615,BBS7017
+Virginia's Warbler,Oreothlypis virginiae,1964,Western Forest,Mexico-Central America,Parulidae,landbird,M,other,native,904013,567681,1360062,2006,2015,PIF0615,BBS7017
+Virginia Rail,Rallus limicola,413,Wetland,Temperate North America,Rallidae,waterbird,M,other,native,232547,160326,321031,2006,2015,PIF0615,BBS7017
+Wandering Tattler,Tringa incana,523,Arctic Tundra,Coastal,Scolopacidae,shorebird,M,other,native,17500,10000,25000,2011,2013,Shoreb12,CBC7017
+Warbling Vireo,Vireo gilvus,1358,Forest Generalist,Mexico-Central America,Vireonidae,landbird,M,other,native,52333042,46022570,58752802,2006,2015,PIF0615,BBS7017
+Western Bluebird,Sialia mexicana,1558,Western Forest,Temperate North America,Turdidae,landbird,M,other,native,5661189,4392144,7058744,2006,2015,PIF0615,BBS7017
+Western Grebe,Aechmophorus occidentalis,146,Wetland,Temperate North America,Podicipedidae,waterbird,M,other,native,989858,425689,1889334,2006,2015,PIF0615,CBC7017
+Western Gull,Larus occidentalis,583,Coasts,Coastal,Laridae,waterbird,M,other,native,44003,11262,90819,2006,2015,PIF0615,BBS7017
+Western Kingbird,Tyrannus verticalis,1277,Grassland,Mexico-Central America,Tyrannidae,landbird,M,AI,native,28830127,24939575,33543450,2006,2015,PIF0615,BBS7017
+Western Meadowlark,Sturnella neglecta,1889,Grassland,Southwestern Aridlands,Icteridae,landbird,M,other,native,95124368,83326234,107339715,2006,2015,PIF0615,BBS7017
+Western Sandpiper,Calidris mauri,507,Arctic Tundra,Widespread,Scolopacidae,shorebird,M,other,native,3500000,2333333,5250000,2011,2013,Shoreb12,CBC7017
+Western Screech-Owl,Megascops kennicottii,832,Western Forest,Temperate North America,Strigidae,landbird,R,other,native,240461,121691,401313,2006,2015,PIF0615,BBS7017
+Western Tanager,Piranga ludoviciana,2035,Western Forest,Mexico-Central America,Cardinalidae,landbird,M,other,native,15020244,12899162,17361777,2006,2015,PIF0615,BBS7017
+Western Wood-Pewee,Contopus sordidulus,1295,Western Forest,South America,Tyrannidae,landbird,M,AI,native,8845348,7660907,10112663,2006,2015,PIF0615,BBS7017
+Whimbrel,Numenius phaeopus,471,Arctic Tundra,Coastal,Scolopacidae,shorebird,M,other,native,80000,53333,120000,2011,2013,Shoreb12,Mig7416
+White-breasted Nuthatch,Sitta carolinensis,1450,Forest Generalist,Temperate North America,Sittidae,landbird,R,other,native,10035072,9249484,10873200,2006,2015,PIF0615,BBS7017
+White-crowned Sparrow,Zonotrichia leucophrys,1858,Habitat Generalist,Temperate North America,Passerellidae,landbird,M,other,native,79258794,63587655,97291972,2006,2015,PIF0615,BBS7017
+White-eyed Vireo,Vireo griseus,1340,Eastern Forest,Mexico-Central America,Vireonidae,landbird,M,other,native,22090753,20223913,24179468,2006,2015,PIF0615,BBS7017
+White-faced Ibis,Plegadis chihi,760,Wetland,Widespread,Threskiornithidae,waterbird,M,other,native,1332908,700651,2146390,2006,2015,PIF0615,BBS7017
+White-headed Woodpecker,Dryobates albolarvatus,966,Western Forest,Temperate North America,Picidae,landbird,R,other,native,243113,168463,340504,2006,2015,PIF0615,BBS7017
+White-rumped Sandpiper,Calidris fuscicollis,503,Arctic Tundra,South America,Scolopacidae,shorebird,M,other,native,1694000,560100,3827900,2011,2013,Shoreb12,Mig7416
+White-tailed Kite,Elanus leucurus,772,Habitat Generalist,Widespread,Accipitridae,landbird,R,other,native,15718,8293,26310,2006,2015,PIF0615,BBS7017
+White-throated Sparrow,Zonotrichia albicollis,1856,Boreal Forest,Temperate North America,Passerellidae,landbird,M,other,native,162847702,138867549,189194261,2006,2015,PIF0615,BBS7017
+White-throated Swift,Aeronautes saxatalis,274,Aridlands,Southwestern Aridlands,Apodidae,landbird,M,AI,native,2382771,1600983,3298803,2006,2015,PIF0615,BBS7017
+White-winged Crossbill,Loxia leucoptera,1760,Boreal Forest,Temperate North America,Fringillidae,landbird,M,other,native,39691698,30030233,51497702,2006,2015,PIF0615,BBS7017
+White-winged Dove,Zenaida asiatica,195,Aridlands,Southwestern Aridlands,Columbidae,landbird,M,other,native,5159586,3579714,7462483,2006,2015,PIF0615,BBS7017
+White-winged Scoter,Melanitta fusca,68,Wetland,Marine,Anatidae,waterfowl,M,other,native,400000,200000,600000,2004,2006,SeDu07,CBC7017
+White Ibis,Eudocimus albus,757,Wetland,Widespread,Threskiornithidae,waterbird,M,other,native,1170987,807222,1696093,2006,2015,PIF0615,BBS7017
+Wild Turkey,Meleagris gallopavo,137,Forest Generalist,Temperate North America,Phasianidae,landbird,R,other,native,6750000,6075000,7425000,2008,2010,BNA2014,BBS7017
+Willet,Tringa semipalmata,525,Wetland,Coastal,Scolopacidae,shorebird,M,other,native,250000,100000,625000,2011,2013,Shoreb12,BBS7017
+Williamson's Sapsucker,Sphyrapicus thyroideus,953,Western Forest,Temperate North America,Picidae,landbird,M,other,native,294829,209789,398019,2006,2015,PIF0615,BBS7017
+Willow Flycatcher,Empidonax traillii,1305,Eastern Forest,Widespread Neotropical,Tyrannidae,landbird,M,other,native,8095093,6902363,9486416,2006,2015,PIF0615,BBS7017
+Willow Ptarmigan,Lagopus lagopus,129,Arctic Tundra,Temperate North America,Phasianidae,landbird,M,other,native,12784429,7232901,21298386,2006,2015,PIF0615,BBS9317
+Wilson's Phalarope,Phalaropus tricolor,532,Wetland,South America,Scolopacidae,shorebird,M,other,native,1500000,600000,3750000,2011,2013,Shoreb12,BBS7017
+Wilson's Plover,Charadrius wilsonia,458,Coasts,Coastal,Charadriidae,shorebird,M,other,native,8600,5733,12900,2011,2013,Shoreb12,CBC7017
+Wilson's Snipe,Gallinago delicata,516,Wetland,Widespread,Scolopacidae,shorebird,M,other,native,2000000,800000,5000000,2011,2013,Shoreb12,BBS7017
+Wilson's Warbler,Cardellina pusilla,2023,Forest Generalist,Mexico-Central America,Parulidae,landbird,M,other,native,81271984,65743361,98288305,2006,2015,PIF0615,BBS7017
+Winter Wren,Troglodytes hiemalis,1467,Boreal Forest,Temperate North America,Troglodytidae,landbird,M,other,native,11140437,9052643,13798379,2006,2015,PIF0615,BBS7017
+Wood Duck,Aix sponsa,35,Wetland,Temperate North America,Anatidae,waterfowl,M,other,native,2148806,1930697,2371212,2006,2015,PIF0615,BBS7017
+Wood Stork,Mycteria americana,706,Wetland,Widespread Neotropical,Ciconiidae,waterbird,M,other,native,15700,12560,18840,1994,1996,BNA1999,BBS7017
+Wood Thrush,Hylocichla mustelina,1585,Eastern Forest,Mexico-Central America,Turdidae,landbird,M,other,native,12191387,10959424,13589692,2006,2015,PIF0615,BBS7017
+Woodhouse's Scrub-Jay,Aphelocoma woodhouseii,1386,Western Forest,Temperate North America,Corvidae,landbird,R,other,native,692935,476075,1023759,2006,2015,PIF0615,BBS7017
+Worm-eating Warbler,Helmitheros vermivorum,1948,Eastern Forest,Caribbean,Parulidae,landbird,M,other,native,784060,608710,988276,2006,2015,PIF0615,BBS7017
+Wrentit,Chamaea fasciata,1530,Aridlands,Temperate North America,Sylviidae,landbird,R,other,native,1753863,1095353,2807164,2006,2015,PIF0615,BBS7017
+Yellow-bellied Flycatcher,Empidonax flaviventris,1302,Boreal Forest,Mexico-Central America,Tyrannidae,landbird,M,other,native,13047639,10169586,16383394,2006,2015,PIF0615,BBS7017
+Yellow-bellied Sapsucker,Sphyrapicus varius,954,Eastern Forest,Widespread,Picidae,landbird,M,other,native,13523418,11628336,15891341,2006,2015,PIF0615,BBS7017
+Yellow-billed Cuckoo,Coccyzus americanus,205,Eastern Forest,South America,Cuculidae,landbird,M,other,native,8358126,7571171,9214892,2006,2015,PIF0615,BBS7017
+Yellow-billed Loon,Gavia adamsii,630,Arctic Tundra,Marine,Gaviidae,waterbird,M,other,native,12000,8000,16000,2013,2017,FWS2014,CBC7017
+Yellow-billed Magpie,Pica nuttalli,1392,Western Forest,Temperate North America,Corvidae,landbird,R,other,native,396399,319891,491206,2007,2009,BNA2009,BBS7017
+Yellow-breasted Chat,Icteria virens,1885,Eastern Forest,Mexico-Central America,Icteriidae,landbird,M,other,native,15066335,13315869,16929873,2006,2015,PIF0615,BBS7017
+Yellow-crowned Night-Heron,Nyctanassa violacea,755,Coasts,Widespread,Ardeidae,waterbird,M,other,native,129442,72714,233481,2006,2015,PIF0615,BBS7017
+Yellow-headed Blackbird,Xanthocephalus xanthocephalus,1886,Wetland,Temperate North America,Icteridae,landbird,M,other,native,11338466,8566820,14826716,2006,2015,PIF0615,BBS7017
+Yellow-rumped Warbler,Setophaga coronata,1999,Forest Generalist,Widespread,Parulidae,landbird,M,other,native,173685250,155879524,190742853,2006,2015,PIF0615,BBS7017
+Yellow-throated Vireo,Vireo flavifrons,1352,Eastern Forest,Mexico-Central America,Vireonidae,landbird,M,other,native,4705278,4250092,5161482,2006,2015,PIF0615,BBS7017
+Yellow-throated Warbler,Setophaga dominica,2000,Eastern Forest,Caribbean,Parulidae,landbird,M,other,native,2039116,1732805,2359505,2006,2015,PIF0615,BBS7017
+Yellow Warbler,Setophaga petechia,1992,Forest Generalist,Widespread Neotropical,Parulidae,landbird,M,other,native,92640979,83231903,102629283,2006,2015,PIF0615,BBS7017
