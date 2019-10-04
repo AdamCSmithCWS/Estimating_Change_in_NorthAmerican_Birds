@@ -21,7 +21,7 @@ set.seed(2019)
 
 
 
-popest = read.csv("Rosenberg et al species list - Copy.csv",
+popest = read.csv("Rosenberg et al species list.csv",
                    stringsAsFactors = F)
 popest$popse = ((popest$popestuci-popest$popestlci)/(1.96*2))
 
