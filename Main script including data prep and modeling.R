@@ -182,11 +182,11 @@ for(ss in sps){
 }
 
 
-save(indicesraw,file = "post GAM indices.RDATA")
+save(indicesraw,file = "output/post GAM indices.RDATA")
 ######################### end GAM smoothing of annual indices
 
 
-
+load("output/post GAM indices.RDATA")
 
 
 indices = indicesraw
@@ -603,7 +603,7 @@ sumq = MCMCsummary(jagsMod$samples,func = q90,Rhat = F,n.eff = F,func_name = c("
 
 sumq = data.frame(sumq)
 names(sumq) <- c("mean","sd","lci95","med","uci95","lci","lqrt","uqrt","uci")
-write.csv(sumq,paste0("population change parameters NA loss.csv"))
+write.csv(sumq,paste0("output/population change parameters NA loss.csv"))
 #write.csv(sumqalt,paste0("population change parameters NA loss w neff.csv"))
 
 
