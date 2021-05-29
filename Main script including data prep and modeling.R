@@ -1032,8 +1032,12 @@ spinlabs[gns,"labs"] = paste0("+",signif(-1*(spinlabs[gns,"Loss_med"])/1e6,2),"M
 
 rwsnodat = which(is.na(sppop2$rescindex))
 
+write.csv(sppop2,"output/species modeled trajectories w projections.csv")
 
 sppop2[rwsnodat,c("lci","uci","lqrt","uqrt","med")] = NA 
+
+write.csv(sppop2,"output/species modeled trajectories.csv")
+
 pdf(paste0("individual populations manypage.pdf"))
 
 for(jj in 1:ceiling(nspecies/9)){
