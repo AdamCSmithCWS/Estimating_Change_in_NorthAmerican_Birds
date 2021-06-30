@@ -567,6 +567,7 @@ for( s in wspeciesearly) { # wspecieslate = vector of species that don't have da
              "plost.fam",
              "plost.biome",
              "plost",
+             "plost.S",
              "Nsum.subgrp")
   
   mod = "Rosenberg et al model.txt"
@@ -883,18 +884,48 @@ write.csv(lossa,row.names = F,"overall avifauna trajectories N and loss.csv")
 lost = as.data.frame(sumq["Nlost",])
 
 
-lost.s = as.data.frame(sumq[paste0("Nlost.S[",1:nspecies,"]"),])
+lost.s = as.data.frame(sumq[paste0("Nlost.S[",1:nspecies,"]"),c("med","lci","uci","lqrt","uqrt")])
 names(lost.s) = paste0("Loss_",names(lost.s))
+for(i in 1:ncol(lost.s)){
+  lost.s[,i] <- signif(lost.s[,i],3)
+}
+
 lost.s = cbind(splist,lost.s)
-Psi = as.data.frame(sumq[paste0("Psi[",1:nspecies,"]"),])
-names(Psi) = paste0("Psi_",names(Psi))
-lost.s = cbind(lost.s,Psi)
-NEst = as.data.frame(sumq[paste0("NEst[",1:nspecies,"]"),])
-names(NEst) = paste0("NEst_",names(NEst))
-lost.s = cbind(lost.s,NEst)
 
 
+# Psi = as.data.frame(sumq[paste0("Psi[",1:nspecies,"]"),c("med","lci","uci")])
+# names(Psi) = paste0("Psi_",names(Psi))
+# lost.s = cbind(lost.s,Psi)
+# NEst = as.data.frame(sumq[paste0("NEst[",1:nspecies,"]"),c("med","lci","uci")])
+# names(NEst) = paste0("NEst_",names(NEst))
+# lost.s = cbind(lost.s,NEst)
 
+# June 2021 - adding species level proportional loss ----------------------
+
+plost.s = as.data.frame(sumq[paste0("plost.S[",1:nspecies,"]"),c("med","lci","uci","lqrt","uqrt")])
+names(plost.s) = paste0("Proportional_loss_",names(plost.s))
+for(i in 1:ncol(plost.s)){
+  plost.s[,i] <- signif(plost.s[,i],3)
+}
+lost.s = cbind(lost.s,plost.s)
+
+
+# June 2021 - adding starting and ending population sizes -----------------
+
+
+n1.S = as.data.frame(sumq[paste0("N[",1:nspecies,",1]"),c("med","lci","uci","lqrt","uqrt")])
+names(n1.S) = paste0("Estimated_population_size_1970_",names(n1.S))
+for(i in 1:ncol(n1.S)){
+  n1.S[,i] <- signif(n1.S[,i],3)
+}
+n2.S = as.data.frame(sumq[paste0("N[",1:nspecies,",",nyears,"]"),c("med","lci","uci","lqrt","uqrt")])
+names(n2.S) = paste0("Estimated_population_size_2017_",names(n2.S))
+for(i in 1:ncol(n2.S)){
+  n2.S[,i] <- signif(n2.S[,i],3)
+}
+
+lost.s = cbind(lost.s,n1.S)
+lost.s = cbind(lost.s,n2.S)
 
 write.csv(lost.s,paste0("population change by species NA loss.csv"))
 
